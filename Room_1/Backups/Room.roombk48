@@ -20,14 +20,14 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 2.796593427658081,
-        "y": 1.1308386325836182,
-        "z": 0.13477379083633424
+        "x": -3.0375208854675295,
+        "y": 2.4155173301696779,
+        "z": -0.33585411310195925
     },
     "cameraEditRotation": {
-        "x": 27.858640670776368,
-        "y": 83.98832702636719,
-        "z": -9.656945394453942e-7
+        "x": 11.652425765991211,
+        "y": 14.089345932006836,
+        "z": -1.0896743418697952e-7
     },
     "useNonLegacyLights": true,
     "useNonLegacyFloorColliders": true,
@@ -815,7 +815,7 @@
                 "local": false,
                 "position": {
                     "x": -0.00004107312997803092,
-                    "y": -0.48046833276748659,
+                    "y": -0.018859826028347017,
                     "z": 0.006147727370262146
                 },
                 "rotation": {
@@ -939,7 +939,7 @@
                 {
                     "isRemote": true,
                     "isSticky": false,
-                    "duration": 10.0,
+                    "duration": 60.0,
                     "outputValueApplied": true,
                     "outputValue": 1,
                     "bounce": false,
@@ -957,7 +957,7 @@
                         "local": true,
                         "position": {
                             "x": 0.0,
-                            "y": 9.414732933044434,
+                            "y": 6.6851677894592289,
                             "z": 0.0
                         },
                         "rotation": {
@@ -2260,10 +2260,10 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SteampunkWallDoor"
+                    "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 },
                 {
                     "value": "Wall/MedievalWallResized"
@@ -2293,7 +2293,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 },
                 {
                     "value": "Wall/MedievalWallResized"
@@ -2323,7 +2323,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 },
                 {
                     "value": "Wall/MedievalWallResized"
@@ -2386,7 +2386,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 }
             ],
             "floorPaintTextures": [],
@@ -2416,7 +2416,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 }
             ],
             "floorPaintTextures": [],
@@ -2446,7 +2446,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 }
             ],
             "floorPaintTextures": [],

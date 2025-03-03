@@ -2,12 +2,7 @@
     "name": "MyRoom",
     "description": "Description",
     "pointVersion": 35389,
-    "tags": [
-        "tag5minutes",
-        "tagSingleplayer",
-        "tagRoom",
-        "tagEasy"
-    ],
+    "tags": [],
     "walkthrough": [],
     "cameraScreenshotPosition": {
         "x": 0.0,
@@ -20,14 +15,14 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 2.796593427658081,
-        "y": 1.1308386325836182,
-        "z": 0.13477379083633424
+        "x": 1.8632636070251465,
+        "y": 0.7193040251731873,
+        "z": 0.9733089804649353
     },
     "cameraEditRotation": {
-        "x": 27.858640670776368,
-        "y": 83.98832702636719,
-        "z": -9.656945394453942e-7
+        "x": 12.863930702209473,
+        "y": 45.440059661865237,
+        "z": 0.0
     },
     "useNonLegacyLights": true,
     "useNonLegacyFloorColliders": true,
@@ -815,7 +810,7 @@
                 "local": false,
                 "position": {
                     "x": -0.00004107312997803092,
-                    "y": -0.48046833276748659,
+                    "y": -0.018859826028347017,
                     "z": 0.006147727370262146
                 },
                 "rotation": {
@@ -939,7 +934,7 @@
                 {
                     "isRemote": true,
                     "isSticky": false,
-                    "duration": 10.0,
+                    "duration": 60.0,
                     "outputValueApplied": true,
                     "outputValue": 1,
                     "bounce": false,
@@ -957,7 +952,7 @@
                         "local": true,
                         "position": {
                             "x": 0.0,
-                            "y": 9.414732933044434,
+                            "y": 6.6851677894592289,
                             "z": 0.0
                         },
                         "rotation": {
@@ -1686,503 +1681,6 @@
             "editorWater": [],
             "roulette": [],
             "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "House/Extras/Pipe_3x_valve"
-            },
-            "ID": {
-                "value": 31
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 3.813997983932495,
-                    "y": 0.6315221190452576,
-                    "z": 4.102949619293213
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000004768371583,
-                    "y": 1.0,
-                    "z": 1.0000004768371583
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pipe",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "House/Extras/Pipe_3x"
-            },
-            "ID": {
-                "value": 32
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 3.6181581020355226,
-                    "y": 0.5669002532958984,
-                    "z": 4.103140354156494
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000004768371583,
-                    "y": 1.0,
-                    "z": 1.0000004768371583
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pipe",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "House/Extras/Pipe_1x"
-            },
-            "ID": {
-                "value": 33
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 2.412698745727539,
-                    "y": 0.5669000148773193,
-                    "z": 4.040696144104004
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.0
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pipe",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "House/Extras/Pipe_corner_L"
-            },
-            "ID": {
-                "value": 34
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 2.3678841590881349,
-                    "y": 0.5669001340866089,
-                    "z": 2.7870121002197267
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.0
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pipe",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "House/Extras/Pipe_corner_R"
-            },
-            "ID": {
-                "value": 35
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 3.385991334915161,
-                    "y": 0.5669002532958984,
-                    "z": 3.0008442401885988
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000004768371583,
-                    "y": 1.0,
-                    "z": 1.0000004768371583
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pipe",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "House/Extras/Pipe_corner_T"
-            },
-            "ID": {
-                "value": 36
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 1.2384264469146729,
-                    "y": 0.5669001340866089,
-                    "z": 3.207160472869873
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.0
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pipe",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "House/Extras/Pipe_end"
-            },
-            "ID": {
-                "value": 37
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 3.1205103397369386,
-                    "y": 0.566900372505188,
-                    "z": 1.9368816614151
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000004768371583,
-                    "y": 1.0,
-                    "z": 1.0000004768371583
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pipe",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
         }
     ],
     "floors": [
@@ -2260,10 +1758,10 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SteampunkWallDoor"
+                    "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 },
                 {
                     "value": "Wall/MedievalWallResized"
@@ -2293,7 +1791,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 },
                 {
                     "value": "Wall/MedievalWallResized"
@@ -2323,7 +1821,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 },
                 {
                     "value": "Wall/MedievalWallResized"
@@ -2386,7 +1884,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 }
             ],
             "floorPaintTextures": [],
@@ -2416,7 +1914,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 }
             ],
             "floorPaintTextures": [],
@@ -2446,7 +1944,7 @@
                     "value": "Wall/MedievalWallResized"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow2"
+                    "value": "Wall/MedievalWallResized"
                 }
             ],
             "floorPaintTextures": [],

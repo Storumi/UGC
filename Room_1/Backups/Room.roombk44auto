@@ -20,14 +20,14 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 2.796593427658081,
-        "y": 1.1308386325836182,
-        "z": 0.13477379083633424
+        "x": -0.8659172058105469,
+        "y": 1.823300838470459,
+        "z": -3.5591845512390138
     },
     "cameraEditRotation": {
-        "x": 27.858640670776368,
-        "y": 83.98832702636719,
-        "z": -9.656945394453942e-7
+        "x": 9.556824684143067,
+        "y": 334.0382080078125,
+        "z": -2.164473897892094e-7
     },
     "useNonLegacyLights": true,
     "useNonLegacyFloorColliders": true,
@@ -939,7 +939,7 @@
                 {
                     "isRemote": true,
                     "isSticky": false,
-                    "duration": 10.0,
+                    "duration": 60.0,
                     "outputValueApplied": true,
                     "outputValue": 1,
                     "bounce": false,
@@ -957,7 +957,7 @@
                         "local": true,
                         "position": {
                             "x": 0.0,
-                            "y": 9.414732933044434,
+                            "y": 6.6851677894592289,
                             "z": 0.0
                         },
                         "rotation": {
@@ -2145,6 +2145,77 @@
             "exportName": "",
             "elementNameSet": true,
             "elementName": "Pipe",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Effects/Water3"
+            },
+            "ID": {
+                "value": 38
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 1.2565001249313355,
+                    "y": 0.5714064240455627,
+                    "z": 3.883376359939575
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0000004768371583,
+                    "y": 1.0,
+                    "z": 1.0000004768371583
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Water Splash One Shot",
             "playerVariableNameSet": true,
             "playerVariableName": "",
             "pickableType": 0,
