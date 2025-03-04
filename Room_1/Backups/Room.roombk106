@@ -20,14 +20,14 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": -0.07825032621622086,
-        "y": 0.6922413110733032,
-        "z": -2.2033026218414308
+        "x": -5.247690200805664,
+        "y": 2.361950159072876,
+        "z": -8.081925392150879
     },
     "cameraEditRotation": {
-        "x": 18.158021926879884,
-        "y": 25.46229362487793,
-        "z": 0.0
+        "x": 28.159210205078126,
+        "y": 50.07229995727539,
+        "z": 9.683928965387168e-7
     },
     "useNonLegacyLights": true,
     "useNonLegacyFloorColliders": true,
@@ -64,7 +64,7 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.000000238418579,
+                    "y": 1.0000001192092896,
                     "z": 0.9999997615814209
                 }
             },
@@ -147,8 +147,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000009536743165,
-                    "y": 1.0000007152557374,
+                    "x": 1.0000008344650269,
+                    "y": 1.0000005960464478,
                     "z": 1.000000238418579
                 }
             },
@@ -213,9 +213,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 3.4138176441192629,
+                    "x": 3.4795496463775636,
                     "y": 0.03909924626350403,
-                    "z": 0.6092768907546997
+                    "z": 0.5028280019760132
                 },
                 "rotation": {
                     "x": 83.40203094482422,
@@ -291,7 +291,7 @@
                 "position": {
                     "x": 3.469318389892578,
                     "y": 0.055485352873802188,
-                    "z": 0.24682874977588654
+                    "z": 0.1954764872789383
                 },
                 "rotation": {
                     "x": 90.0,
@@ -299,8 +299,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000007152557374,
-                    "y": 1.0000007152557374,
+                    "x": 1.0000004768371583,
+                    "y": 1.0000004768371583,
                     "z": 1.0
                 }
             },
@@ -365,19 +365,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 3.7025339603424074,
+                    "x": 3.5257728099823,
                     "y": 0.05834684148430824,
-                    "z": -0.02367299050092697
+                    "z": -0.06505013257265091
                 },
                 "rotation": {
-                    "x": 271.2626953125,
-                    "y": 277.8127136230469,
-                    "z": 260.1372375488281
+                    "x": 274.7848815917969,
+                    "y": 134.7833251953125,
+                    "z": 89.99996185302735
                 },
                 "scale": {
-                    "x": 1.0000011920928956,
-                    "y": 1.0000005960464478,
-                    "z": 1.0000007152557374
+                    "x": 1.0000003576278687,
+                    "y": 1.000000238418579,
+                    "z": 1.0000001192092896
                 }
             },
             "isObstacle": false,
@@ -824,9 +824,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000003576278687,
-                    "y": 1.0000011920928956,
-                    "z": 1.0000008344650269
+                    "x": 1.000000238418579,
+                    "y": 1.0000008344650269,
+                    "z": 1.0000005960464478
                 }
             },
             "isObstacle": false,
@@ -1028,9 +1028,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.9999998211860657,
+                    "x": 0.9999999403953552,
                     "y": 1.0,
-                    "z": 0.9999997615814209
+                    "z": 0.9999998807907105
                 }
             },
             "isObstacle": false,
@@ -1104,9 +1104,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.9999996423721314,
+                    "x": 0.9999997615814209,
                     "y": 1.0,
-                    "z": 0.9999997615814209
+                    "z": 0.9999998807907105
                 }
             },
             "isObstacle": false,
@@ -1322,19 +1322,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 3.3196821212768556,
+                    "x": 3.3854141235351564,
                     "y": 0.04523108899593353,
-                    "z": 0.6694637537002564
+                    "z": 0.5630149245262146
                 },
                 "rotation": {
                     "x": 90.0,
-                    "y": 179.99998474121095,
+                    "y": 180.0,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.2500024139881134,
-                    "y": 0.2500006854534149,
-                    "z": 0.25000208616256716
+                    "x": 0.25000229477882388,
+                    "y": 0.25000062584877016,
+                    "z": 0.25000202655792239
                 }
             },
             "isObstacle": false,
@@ -1359,7 +1359,7 @@
             "slot": [
                 {
                     "unlockSuccess": 1,
-                    "unlockSuccessKey": 0,
+                    "unlockSuccessKey": 2,
                     "unlockFailedKey": 1,
                     "keys": [
                         {
@@ -1624,9 +1624,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 0.5505518913269043,
-                    "y": 0.6105436086654663,
-                    "z": 0.4642558991909027
+                    "x": 2.200843334197998,
+                    "y": 0.9869350790977478,
+                    "z": 1.2089768648147584
                 },
                 "rotation": {
                     "x": 270.0,
@@ -1634,9 +1634,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000114440917969,
-                    "y": 1.0000057220458985,
-                    "z": 1.0000057220458985
+                    "x": 1.0000019073486329,
+                    "y": 1.0000009536743165,
+                    "z": 1.0000009536743165
                 }
             },
             "isObstacle": false,
@@ -1710,9 +1710,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000007152557374,
+                    "x": 1.0000004768371583,
                     "y": 1.0,
-                    "z": 1.0000007152557374
+                    "z": 1.0000004768371583
                 }
             },
             "isObstacle": false,
@@ -1781,9 +1781,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000007152557374,
+                    "x": 1.0000004768371583,
                     "y": 1.0,
-                    "z": 1.0000007152557374
+                    "z": 1.0000004768371583
                 }
             },
             "isObstacle": false,
@@ -1994,9 +1994,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000007152557374,
+                    "x": 1.0000004768371583,
                     "y": 1.0,
-                    "z": 1.0000007152557374
+                    "z": 1.0000004768371583
                 }
             },
             "isObstacle": false,
@@ -2136,9 +2136,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000007152557374,
+                    "x": 1.0000004768371583,
                     "y": 1.0,
-                    "z": 1.0000007152557374
+                    "z": 1.0000004768371583
                 }
             },
             "isObstacle": false,
@@ -2197,9 +2197,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 9.036561012268067,
-                    "y": -2.106304407119751,
-                    "z": -4.933302879333496
+                    "x": 4.496889591217041,
+                    "y": 1.156968593597412,
+                    "z": -1.169092059135437
                 },
                 "rotation": {
                     "x": 0.0,
@@ -2207,9 +2207,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.070012092590332,
+                    "x": 2.070009708404541,
                     "y": 2.0700087547302248,
-                    "z": 2.070012092590332
+                    "z": 2.070009708404541
                 }
             },
             "isObstacle": false,
@@ -2269,7 +2269,7 @@
                 "local": false,
                 "position": {
                     "x": -0.5191590785980225,
-                    "y": -2.9938762187957765,
+                    "y": 4.0978193283081057e-8,
                     "z": -3.2518298625946047
                 },
                 "rotation": {
@@ -2339,9 +2339,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 2.8928580284118654,
-                    "y": -1.8866957426071168,
-                    "z": -5.525633335113525
+                    "x": -1.1546272039413453,
+                    "y": 0.477389931678772,
+                    "z": -4.286691665649414
                 },
                 "rotation": {
                     "x": 0.0,
@@ -2420,9 +2420,9 @@
                     "z": 355.6230163574219
                 },
                 "scale": {
-                    "x": 1.0000009536743165,
+                    "x": 1.0000008344650269,
                     "y": 1.0000007152557374,
-                    "z": 1.0000008344650269
+                    "z": 1.0000007152557374
                 }
             },
             "isObstacle": false,
@@ -2504,9 +2504,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.9793851375579835,
-                    "y": 5.750010013580322,
-                    "z": 2.0000855922698976
+                    "x": 1.9793848991394044,
+                    "y": 5.750009536743164,
+                    "z": 2.0000853538513185
                 }
             },
             "isObstacle": false,
@@ -2566,18 +2566,18 @@
                 "local": false,
                 "position": {
                     "x": 0.5544885396957398,
-                    "y": -0.29240864515304568,
+                    "y": -0.29240870475769045,
                     "z": -11.098711013793946
                 },
                 "rotation": {
-                    "x": 3.0841267108917238,
+                    "x": 3.084130048751831,
                     "y": 353.9433288574219,
                     "z": 177.39320373535157
                 },
                 "scale": {
-                    "x": 5.702300071716309,
-                    "y": 2.00588321685791,
-                    "z": 0.5053253173828125
+                    "x": 5.702297210693359,
+                    "y": 2.005882740020752,
+                    "z": 0.505325198173523
                 }
             },
             "isObstacle": false,
@@ -2642,17 +2642,17 @@
                 "local": false,
                 "position": {
                     "x": 0.555828332901001,
-                    "y": -0.29296815395355227,
+                    "y": -0.292968213558197,
                     "z": -11.094003677368164
                 },
                 "rotation": {
-                    "x": 0.29224851727485659,
+                    "x": 0.29224535822868349,
                     "y": 354.73248291015627,
                     "z": 178.46536254882813
                 },
                 "scale": {
-                    "x": 5.7156662940979,
-                    "y": 2.0026605129241945,
+                    "x": 5.715662479400635,
+                    "y": 2.002659797668457,
                     "z": -0.502791166305542
                 }
             },
@@ -3522,19 +3522,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.7614144682884216,
+                    "x": -0.7614144086837769,
                     "y": -0.27679377794265749,
                     "z": -9.319666862487793
                 },
                 "rotation": {
-                    "x": 0.292257159948349,
+                    "x": 0.29224836826324465,
                     "y": 173.21527099609376,
                     "z": 178.46536254882813
                 },
                 "scale": {
-                    "x": 5.715663433074951,
-                    "y": 2.0026633739471437,
-                    "z": -0.5027918219566345
+                    "x": 5.715663909912109,
+                    "y": 2.0026607513427736,
+                    "z": -0.5027914643287659
                 }
             },
             "isObstacle": false,
@@ -3598,19 +3598,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.7601996064186096,
-                    "y": -0.27623438835144045,
+                    "x": -0.7601996660232544,
+                    "y": -0.27623432874679568,
                     "z": -9.314926147460938
                 },
                 "rotation": {
-                    "x": 3.0841307640075685,
+                    "x": 3.084129810333252,
                     "y": 172.4261016845703,
                     "z": 177.39320373535157
                 },
                 "scale": {
-                    "x": 5.702298164367676,
-                    "y": 2.0058844089508058,
-                    "z": 0.5053259134292603
+                    "x": 5.702297210693359,
+                    "y": 2.0058836936950685,
+                    "z": 0.5053255558013916
                 }
             },
             "isObstacle": false,
@@ -3674,18 +3674,18 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.7921287417411804,
+                    "x": -0.7921288013458252,
                     "y": -0.5190178155899048,
                     "z": -9.304424285888672
                 },
                 "rotation": {
-                    "x": 270.0279846191406,
+                    "x": 270.019775390625,
                     "y": 268.4827880859375,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.9793859720230103,
-                    "y": 5.7500128746032719,
+                    "x": 1.9793853759765626,
+                    "y": 5.750010967254639,
                     "z": 2.0000858306884767
                 }
             },
@@ -3824,1524 +3824,6 @@
             "dragTarget": [],
             "_lock": [],
             "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Mayan3/Pump"
-            },
-            "ID": {
-                "value": 84
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.1031460762023926,
-                    "y": 1.1920928955078126e-7,
-                    "z": -0.6776782274246216
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.0
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pump",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [
-                {
-                    "isKinematic": false,
-                    "mass": 1.0
-                }
-            ],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Mayan3/PumpHandle"
-            },
-            "ID": {
-                "value": 85
-            },
-            "parentID": {
-                "value": 84
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.1031460762023926,
-                    "y": 1.1067923307418824,
-                    "z": -0.6776787042617798
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.0
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pupm Handle",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": false,
-                    "isSticky": false,
-                    "duration": 0.5,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": false,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": false,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": -0.24699999392032624
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0,
-                            "z": 1.0
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D2/canister"
-            },
-            "ID": {
-                "value": 87
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.704442024230957,
-                    "y": 0.044859156012535098,
-                    "z": -0.8003522753715515
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 0.00001001791224553017,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 1.0000004768371583,
-                    "z": 1.0000004768371583
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Canister",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [
-                {
-                    "isKinematic": false,
-                    "mass": 1.0
-                }
-            ],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D4/SteampunkValve"
-            },
-            "ID": {
-                "value": 88
-            },
-            "parentID": {
-                "value": 97
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.7332090139389038,
-                    "y": 0.7593437433242798,
-                    "z": -1.0900179147720338
-                },
-                "rotation": {
-                    "x": -0.000023905662601464428,
-                    "y": 90.0,
-                    "z": 270.0
-                },
-                "scale": {
-                    "x": 1.3318628072738648,
-                    "y": 1.3318650722503663,
-                    "z": 1.3318639993667603
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Valve",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": false,
-                    "isSticky": false,
-                    "duration": 0.5,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": false,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [
-                        {
-                            "value": 92
-                        }
-                    ],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "rotation": {
-                            "x": -0.000010681243111321237,
-                            "y": 166.43235778808595,
-                            "z": -0.000003707004225361743
-                        },
-                        "scale": {
-                            "x": 0.7508286237716675,
-                            "y": 0.7508285045623779,
-                            "z": -0.7508288025856018
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D4/SteampunkVent"
-            },
-            "ID": {
-                "value": 89
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.948541522026062,
-                    "y": 0.23771560192108155,
-                    "z": -1.0515304803848267
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 270.00006103515627,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.2903558015823365,
-                    "y": 1.2903560400009156,
-                    "z": 1.2903560400009156
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Vent",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D2/alarmLight"
-            },
-            "ID": {
-                "value": 90
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.6000157594680787,
-                    "y": 0.11990762501955033,
-                    "z": -1.2548185586929322
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000014305114747,
-                    "y": 1.0000005960464478,
-                    "z": 1.0000005960464478
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Light",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D4/valve"
-            },
-            "ID": {
-                "value": 91
-            },
-            "parentID": {
-                "value": 95
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.37109875679016116,
-                    "y": 0.537643551826477,
-                    "z": -1.07730233669281
-                },
-                "rotation": {
-                    "x": 270.019775390625,
-                    "y": 90.00001525878906,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000003576278687,
-                    "y": 1.000000238418579,
-                    "z": 1.0000003576278687
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Gauge Full",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D4/valveArrow"
-            },
-            "ID": {
-                "value": 92
-            },
-            "parentID": {
-                "value": 91
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.37080222368240359,
-                    "y": 0.7718455791473389,
-                    "z": -1.1303024291992188
-                },
-                "rotation": {
-                    "x": 270.019775390625,
-                    "y": 90.00001525878906,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000011920928956,
-                    "y": 1.0000011920928956,
-                    "z": 1.0000029802322388
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Gauge Arrow",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": true,
-                    "isSticky": false,
-                    "duration": 0.5,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": false,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [
-                        {
-                            "value": 108
-                        },
-                        {
-                            "value": 109
-                        }
-                    ],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": -2.8936312015530624e-15,
-                            "y": -5.288829925120808e-7,
-                            "z": 3.131067671802157e-7
-                        },
-                        "rotation": {
-                            "x": 17.858182907104493,
-                            "y": 180.00022888183595,
-                            "z": 180.00018310546876
-                        },
-                        "scale": {
-                            "x": 0.9999999403953552,
-                            "y": 0.9999998211860657,
-                            "z": 0.9999999403953552
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D1/steampunkCannon"
-            },
-            "ID": {
-                "value": 95
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.20252913236618043,
-                    "y": 0.3830632269382477,
-                    "z": -0.9364273548126221
-                },
-                "rotation": {
-                    "x": 358.4476623535156,
-                    "y": 89.98019409179688,
-                    "z": 270.00054931640627
-                },
-                "scale": {
-                    "x": 1.0000009536743165,
-                    "y": 1.0000004768371583,
-                    "z": 1.0000009536743165
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Cannon",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D1/steampunkCannonDoor"
-            },
-            "ID": {
-                "value": 96
-            },
-            "parentID": {
-                "value": 95
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.20925480127334596,
-                    "y": 0.7436515092849731,
-                    "z": -0.936281681060791
-                },
-                "rotation": {
-                    "x": 358.4476623535156,
-                    "y": 89.98018646240235,
-                    "z": 270.00054931640627
-                },
-                "scale": {
-                    "x": 1.0000014305114747,
-                    "y": 1.0000007152557374,
-                    "z": 1.0000015497207642
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Cannon Door",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D1/steampunkCannon"
-            },
-            "ID": {
-                "value": 97
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 1.3229589462280274,
-                    "y": 0.42363566160202029,
-                    "z": -0.9364273548126221
-                },
-                "rotation": {
-                    "x": 358.4476623535156,
-                    "y": 89.98019409179688,
-                    "z": 270.00054931640627
-                },
-                "scale": {
-                    "x": 1.0000005960464478,
-                    "y": 1.0000005960464478,
-                    "z": -1.0000011920928956
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Cannon",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D1/steampunkCannonDoor"
-            },
-            "ID": {
-                "value": 98
-            },
-            "parentID": {
-                "value": 97
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.8922498226165772,
-                    "y": 0.7613920569419861,
-                    "z": -0.9365729093551636
-                },
-                "rotation": {
-                    "x": 358.4476623535156,
-                    "y": 89.98020935058594,
-                    "z": 270.00054931640627
-                },
-                "scale": {
-                    "x": 1.0000009536743165,
-                    "y": 1.0000009536743165,
-                    "z": -1.0000019073486329
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Cannon Door",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Powerwash/PipeLShape"
-            },
-            "ID": {
-                "value": 99
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.5345827341079712,
-                    "y": 0.8401756882667542,
-                    "z": -0.937999963760376
-                },
-                "rotation": {
-                    "x": 2.5584933757781984,
-                    "y": 182.31451416015626,
-                    "z": 126.48043060302735
-                },
-                "scale": {
-                    "x": 0.7500001192092896,
-                    "y": 0.7500019073486328,
-                    "z": 0.7500022649765015
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Pipe",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Magic2/Gear"
-            },
-            "ID": {
-                "value": 108
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.2129315733909607,
-                    "y": 0.3973204791545868,
-                    "z": -1.1703941822052003
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 0.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 3.0,
-                    "y": 3.0000338554382326,
-                    "z": 3.0000340938568117
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Gear",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": true,
-                    "isSticky": false,
-                    "duration": 0.5,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": true,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 270.0120849609375,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 0.9999942183494568,
-                            "y": 1.0,
-                            "z": 1.0000052452087403
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Magic2/Gear"
-            },
-            "ID": {
-                "value": 109
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 1.325707197189331,
-                    "y": 0.42357137799263,
-                    "z": -1.1703941822052003
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 0.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 3.0,
-                    "y": 3.000030279159546,
-                    "z": 3.000030517578125
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Gear",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": true,
-                    "isSticky": false,
-                    "duration": 0.5,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": true,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 270.0120849609375,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 0.9999942183494568,
-                            "y": 1.0,
-                            "z": 1.0000052452087403
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Slot"
-            },
-            "ID": {
-                "value": 110
-            },
-            "parentID": {
-                "value": 3
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 3.4224061965942385,
-                    "y": 0.06464718282222748,
-                    "z": 0.47100183367729189
-                },
-                "rotation": {
-                    "x": -0.000006829459834989393,
-                    "y": 90.0,
-                    "z": -0.000001999786945816595
-                },
-                "scale": {
-                    "x": 0.25000205636024477,
-                    "y": 0.25,
-                    "z": 0.25000205636024477
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Slot",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [
-                {
-                    "unlockSuccess": 1,
-                    "unlockSuccessKey": 0,
-                    "unlockFailedKey": 1,
-                    "keys": [
-                        {
-                            "value": 4
-                        }
-                    ],
-                    "rejectKeys": [],
-                    "animationType": 1,
-                    "turnDuration": 0.5,
-                    "turnCount": 1.0,
-                    "turnAxis": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    },
-                    "locks": [],
-                    "targetPlace": [],
-                    "targetRemove": [],
-                    "locksRemove": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 0.09639778733253479,
-                            "y": -0.13644498586654664,
-                            "z": -0.21953608095645905
-                        },
-                        "rotation": {
-                            "x": 357.578857421875,
-                            "y": 83.68523406982422,
-                            "z": 90.122314453125
-                        },
-                        "scale": {
-                            "x": 3.9999897480010988,
-                            "y": 3.999990701675415,
-                            "z": 3.999999523162842
-                        }
-                    },
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "onlyUsableInZoom": false
-                }
-            ],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Slot"
-            },
-            "ID": {
-                "value": 112
-            },
-            "parentID": {
-                "value": 4
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 3.508833646774292,
-                    "y": 0.024250634014606477,
-                    "z": 0.1589459776878357
-                },
-                "rotation": {
-                    "x": 1.0569156408309937,
-                    "y": 117.00349426269531,
-                    "z": 351.1082763671875
-                },
-                "scale": {
-                    "x": 0.2500024437904358,
-                    "y": 0.25,
-                    "z": 0.2500019967556
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Slot",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [
-                {
-                    "unlockSuccess": 1,
-                    "unlockSuccessKey": 0,
-                    "unlockFailedKey": 1,
-                    "keys": [
-                        {
-                            "value": 5
-                        }
-                    ],
-                    "rejectKeys": [],
-                    "animationType": 1,
-                    "turnDuration": 0.5,
-                    "turnCount": 1.0,
-                    "turnAxis": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    },
-                    "locks": [],
-                    "targetPlace": [],
-                    "targetRemove": [],
-                    "locksRemove": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 0.2539617121219635,
-                            "y": -0.15762853622436524,
-                            "z": 0.13471224904060365
-                        },
-                        "rotation": {
-                            "x": 354.6935119628906,
-                            "y": 356.28662109375,
-                            "z": 184.72525024414063
-                        },
-                        "scale": {
-                            "x": 3.999990701675415,
-                            "y": 3.999988317489624,
-                            "z": 4.000001430511475
-                        }
-                    },
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "onlyUsableInZoom": false
-                }
-            ],
             "trigger": [],
             "teleport": [],
             "fog": [],

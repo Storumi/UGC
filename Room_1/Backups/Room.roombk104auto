@@ -4935,8 +4935,8 @@
                 },
                 "scale": {
                     "x": 3.0,
-                    "y": 3.0000338554382326,
-                    "z": 3.0000340938568117
+                    "y": 3.000032663345337,
+                    "z": 3.000032901763916
                 }
             },
             "isObstacle": false,
@@ -4956,7 +4956,7 @@
                 {
                     "isRemote": true,
                     "isSticky": false,
-                    "duration": 0.5,
+                    "duration": 0.23000000417232514,
                     "outputValueApplied": true,
                     "outputValue": 1,
                     "bounce": false,
@@ -5046,8 +5046,8 @@
                 },
                 "scale": {
                     "x": 3.0,
-                    "y": 3.000030279159546,
-                    "z": 3.000030517578125
+                    "y": 3.0000290870666506,
+                    "z": 3.0000293254852297
                 }
             },
             "isObstacle": false,
@@ -5067,7 +5067,7 @@
                 {
                     "isRemote": true,
                     "isSticky": false,
-                    "duration": 0.5,
+                    "duration": 0.4000000059604645,
                     "outputValueApplied": true,
                     "outputValue": 1,
                     "bounce": false,
