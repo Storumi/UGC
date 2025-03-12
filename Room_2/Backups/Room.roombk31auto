@@ -20,14 +20,14 @@
         "z": 0.0000022144454305816909
     },
     "cameraEditPosition": {
-        "x": -4.337990760803223,
-        "y": 0.5991409420967102,
-        "z": 12.072206497192383
+        "x": 0.22282284498214723,
+        "y": 1.7047556638717652,
+        "z": 23.410978317260743
     },
     "cameraEditRotation": {
-        "x": 34.00161361694336,
-        "y": 34.53202819824219,
-        "z": 0.0
+        "x": 16.60773277282715,
+        "y": 3.636518716812134,
+        "z": -5.568375982534235e-8
     },
     "useNonLegacyLights": false,
     "useNonLegacyFloorColliders": false,
@@ -13554,6 +13554,122 @@
         },
         {
             "propID": {
+                "value": "Base/Empty"
+            },
+            "ID": {
+                "value": 1428
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -3.535142421722412,
+                    "y": 1.8652474880218506,
+                    "z": 30.759021759033204
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.27327761054039,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 0.22999979555606843,
+                    "y": 0.23000000417232514,
+                    "z": 0.22999979555606843
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Hidden Door Shelf",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [
+                {
+                    "isKinematic": true,
+                    "mass": 5.0
+                }
+            ],
+            "_switch": [
+                {
+                    "isRemote": true,
+                    "isSticky": false,
+                    "duration": 1.5,
+                    "outputValueApplied": true,
+                    "outputValue": 1,
+                    "bounce": false,
+                    "loop": false,
+                    "autoplay": false,
+                    "delay": 0.0,
+                    "pauseOnLoop": 0.0,
+                    "pauseOnBounce": 0.0,
+                    "canPickupDuringAnimation": false,
+                    "appliedPickupInZoomFix": false,
+                    "playerVariableName": "",
+                    "interpolation": 0,
+                    "remoteTargets": [],
+                    "pivot": {
+                        "local": true,
+                        "position": {
+                            "x": -3.5827794075012209,
+                            "y": 0.0,
+                            "z": 2.6132829189300539
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 80.4344711303711,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0000001192092896,
+                            "y": 1.0,
+                            "z": 1.0000001192092896
+                        }
+                    },
+                    "locks": [],
+                    "useRigidbody": true,
+                    "useRigidbodyApplied": true
+                }
+            ],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
                 "value": "Base/Sound"
             },
             "ID": {
@@ -13695,6 +13811,230 @@
                     "activeOnStart": false,
                     "volumeScaleApplied": true,
                     "volumeScale": 0.5
+                }
+            ],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Medieval/nail1"
+            },
+            "ID": {
+                "value": 1534
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 3.6988399028778078,
+                    "y": 1.4410244226455689,
+                    "z": 13.446435928344727
+                },
+                "rotation": {
+                    "x": 2.3883323669433595,
+                    "y": 180.0,
+                    "z": 180.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0000007152557374,
+                    "z": 1.0000007152557374
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Nail",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Medieval/nail1"
+            },
+            "ID": {
+                "value": 1535
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 3.8057990074157717,
+                    "y": 2.2856836318969728,
+                    "z": 13.446435928344727
+                },
+                "rotation": {
+                    "x": 2.3883323669433595,
+                    "y": 180.0,
+                    "z": 180.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0000007152557374,
+                    "z": 1.0000007152557374
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Nail",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Base/Sound"
+            },
+            "ID": {
+                "value": 1551
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -2.4856343269348146,
+                    "y": 1.2483547925949097,
+                    "z": 29.590343475341798
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 0.27324342727661135,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.000005841255188,
+                    "y": 1.0000052452087403,
+                    "z": 1.000004529953003
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Sound",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [
+                {
+                    "path": "",
+                    "_event": "event:/ROOM EDITOR/Open/Door 14",
+                    "isMusic": false,
+                    "isLoopable": false,
+                    "is2D": false,
+                    "activeOnStart": false,
+                    "volumeScaleApplied": true,
+                    "volumeScale": 2.0
                 }
             ],
             "skybox": [],
@@ -15948,9 +16288,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.605199933052063,
+                    "x": -1.8989509344100953,
                     "y": 0.10473012924194336,
-                    "z": 17.284494400024415
+                    "z": 17.777315139770509
                 },
                 "rotation": {
                     "x": 270.0,
@@ -16019,19 +16359,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 1.473172903060913,
+                    "x": 1.5313986539840699,
                     "y": 0.10478806495666504,
                     "z": 17.117877960205079
                 },
                 "rotation": {
-                    "x": 270.019775390625,
+                    "x": 270.0279846191406,
                     "y": 270.0,
                     "z": 0.0
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.0
+                    "y": 0.9999998807907105,
+                    "z": 0.9999998807907105
                 }
             },
             "isObstacle": true,
@@ -16092,7 +16432,7 @@
                 "position": {
                     "x": 0.19505254924297334,
                     "y": 0.1048659086227417,
-                    "z": 25.15005111694336
+                    "z": 25.18354034423828
                 },
                 "rotation": {
                     "x": 270.019775390625,
@@ -16425,8 +16765,8 @@
                 },
                 "scale": {
                     "x": 1.1593058109283448,
-                    "y": 1.000005841255188,
-                    "z": 1.1111763715744019
+                    "y": 1.0000046491622925,
+                    "z": 1.1111751794815064
                 }
             },
             "isObstacle": true,
@@ -16444,9 +16784,9 @@
             "rigidbody": [],
             "_switch": [
                 {
-                    "isRemote": true,
+                    "isRemote": false,
                     "isSticky": false,
-                    "duration": 2.0,
+                    "duration": 0.5,
                     "outputValueApplied": true,
                     "outputValue": 1,
                     "bounce": false,
@@ -16456,7 +16796,7 @@
                     "pauseOnLoop": 0.0,
                     "pauseOnBounce": 0.0,
                     "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
+                    "appliedPickupInZoomFix": false,
                     "playerVariableName": "",
                     "interpolation": 0,
                     "remoteTargets": [],
@@ -16468,14 +16808,14 @@
                             "z": 0.0
                         },
                         "rotation": {
-                            "x": 0.0000010431399459776003,
-                            "y": 5.238265998741554e-7,
-                            "z": 233.3282470703125
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 63.73912048339844
                         },
                         "scale": {
-                            "x": 1.096970796585083,
-                            "y": 0.9070459604263306,
-                            "z": 0.9999999403953552
+                            "x": 1.0,
+                            "y": 1.0000001192092896,
+                            "z": 1.0000001192092896
                         }
                     },
                     "locks": [],
@@ -17280,9 +17620,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.25000089406967165,
+                    "x": 0.2500007152557373,
                     "y": 0.25,
-                    "z": 0.25000089406967165
+                    "z": 0.2500007152557373
                 }
             },
             "isObstacle": false,
@@ -17306,8 +17646,8 @@
             "_lock": [],
             "slot": [
                 {
-                    "unlockSuccess": 0,
-                    "unlockSuccessKey": 2,
+                    "unlockSuccess": 1,
+                    "unlockSuccessKey": 0,
                     "unlockFailedKey": 1,
                     "keys": [
                         {
@@ -17315,7 +17655,7 @@
                         }
                     ],
                     "rejectKeys": [],
-                    "animationType": 1,
+                    "animationType": 0,
                     "turnDuration": 0.5,
                     "turnCount": 1.0,
                     "turnAxis": {
@@ -17498,7 +17838,7 @@
             "slot": [
                 {
                     "unlockSuccess": 0,
-                    "unlockSuccessKey": 2,
+                    "unlockSuccessKey": 0,
                     "unlockFailedKey": 1,
                     "keys": [
                         {
@@ -17506,7 +17846,7 @@
                         }
                     ],
                     "rejectKeys": [],
-                    "animationType": 1,
+                    "animationType": 0,
                     "turnDuration": 0.5,
                     "turnCount": 1.0,
                     "turnAxis": {
@@ -17530,9 +17870,9 @@
                             "z": 0.04045531526207924
                         },
                         "rotation": {
-                            "x": 272.23712158203127,
+                            "x": 272.23736572265627,
                             "y": 337.52923583984377,
-                            "z": 12.6375093460083
+                            "z": 12.637521743774414
                         },
                         "scale": {
                             "x": 4.0,
@@ -18377,9 +18717,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000004529953003,
-                    "y": 1.0000033378601075,
-                    "z": 1.0000011920928956
+                    "x": 1.0000040531158448,
+                    "y": 1.0000030994415284,
+                    "z": 1.0000009536743165
                 }
             },
             "isObstacle": false,
@@ -18394,2830 +18734,12 @@
             "transparencyOrderOffset": 0,
             "showSparklesInVR": true,
             "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/TreasureIsland/ChestKeyGold"
-            },
-            "ID": {
-                "value": 1646
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.24472002685070039,
-                    "y": 0.129745751619339,
-                    "z": 19.30295753479004
-                },
-                "rotation": {
-                    "x": 90.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000009536743165,
-                    "y": 1.0000007152557374,
-                    "z": 1.0000007152557374
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Key",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
             "rigidbody": [
                 {
                     "isKinematic": false,
                     "mass": 1.0
                 }
             ],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Slot"
-            },
-            "ID": {
-                "value": 1647
-            },
-            "parentID": {
-                "value": 1616
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.28399986028671267,
-                    "y": 0.977999746799469,
-                    "z": 18.82200050354004
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.2500002384185791,
-                    "y": 0.25,
-                    "z": 0.2500002384185791
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Slot",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [
-                {
-                    "unlockSuccess": 0,
-                    "unlockSuccessKey": 0,
-                    "unlockFailedKey": 1,
-                    "keys": [
-                        {
-                            "value": 1646
-                        }
-                    ],
-                    "rejectKeys": [],
-                    "animationType": 0,
-                    "turnDuration": 2.0,
-                    "turnCount": 0.5,
-                    "turnAxis": {
-                        "x": -1.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    },
-                    "locks": [],
-                    "targetPlace": [
-                        {
-                            "value": 1616
-                        }
-                    ],
-                    "targetRemove": [],
-                    "locksRemove": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 2.9214515251396734e-8,
-                            "y": 0.08357453346252442,
-                            "z": -0.33417510986328127
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 272.11395263671877,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 4.000002861022949,
-                            "y": 4.000001907348633,
-                            "z": 4.000001907348633
-                        }
-                    },
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "onlyUsableInZoom": false
-                }
-            ],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1653
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.549307823181152,
-                    "y": 0.0,
-                    "z": 16.28082275390625
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000019073486329,
-                    "y": 1.0000009536743165,
-                    "z": 0.5000004768371582
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1654
-            },
-            "parentID": {
-                "value": 1653
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5493087768554688,
-                    "y": -2.3853499442338946e-7,
-                    "z": 16.2810001373291
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.000000238418579,
-                    "y": 1.000000238418579,
-                    "z": 0.5000001788139343
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1655
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.549307823181152,
-                    "y": -0.2764825224876404,
-                    "z": 15.849310874938965
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000026226043702,
-                    "y": 1.000001311302185,
-                    "z": 0.5000006556510925
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1656
-            },
-            "parentID": {
-                "value": 1655
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5493073463439942,
-                    "y": -0.2764829993247986,
-                    "z": 15.849488258361817
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000009536743165,
-                    "y": 1.0000007152557374,
-                    "z": 0.5000004172325134
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1657
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.549307823181152,
-                    "y": -0.5441054701805115,
-                    "z": 15.397619247436524
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000033378601075,
-                    "y": 1.0000016689300538,
-                    "z": 0.5000008344650269
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1658
-            },
-            "parentID": {
-                "value": 1657
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5493061542510987,
-                    "y": -0.5441064238548279,
-                    "z": 15.397796630859375
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000016689300538,
-                    "y": 1.0000011920928956,
-                    "z": 0.5000006556510925
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1659
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.549307823181152,
-                    "y": -0.7157094478607178,
-                    "z": 14.950995445251465
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000040531158448,
-                    "y": 1.0000020265579224,
-                    "z": 0.5000010132789612
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1660
-            },
-            "parentID": {
-                "value": 1659
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.549304723739624,
-                    "y": -0.7157108783721924,
-                    "z": 14.951172828674317
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.000002384185791,
-                    "y": 1.0000016689300538,
-                    "z": 0.5000008940696716
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1661
-            },
-            "parentID": {
-                "value": 1691
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.549307823181152,
-                    "y": -0.8806962966918945,
-                    "z": 14.50426959991455
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000050067901612,
-                    "y": 1.0000025033950806,
-                    "z": 0.5000012516975403
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1662
-            },
-            "parentID": {
-                "value": 1661
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5493030548095704,
-                    "y": -0.8806980848312378,
-                    "z": 14.504446983337403
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000032186508179,
-                    "y": 1.0000020265579224,
-                    "z": 0.500001072883606
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1663
-            },
-            "parentID": {
-                "value": 1691
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.549307823181152,
-                    "y": -1.1241573095321656,
-                    "z": 14.044585227966309
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000057220458985,
-                    "y": 1.0000028610229493,
-                    "z": 0.5000014305114746
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1664
-            },
-            "parentID": {
-                "value": 1663
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5493018627166749,
-                    "y": -1.124159812927246,
-                    "z": 14.04476261138916
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000038146972657,
-                    "y": 1.0000025033950806,
-                    "z": 0.5000013113021851
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1665
-            },
-            "parentID": {
-                "value": 1691
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.549307823181152,
-                    "y": -1.3997299671173096,
-                    "z": 13.579219818115235
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000064373016358,
-                    "y": 1.0000032186508179,
-                    "z": 0.5000016093254089
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1666
-            },
-            "parentID": {
-                "value": 1665
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.549300193786621,
-                    "y": -1.3997328281402588,
-                    "z": 13.579397201538086
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000046491622925,
-                    "y": 1.0000029802322388,
-                    "z": 0.5000015497207642
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1667
-            },
-            "parentID": {
-                "value": 1691
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.594451904296875,
-                    "y": -1.622351884841919,
-                    "z": 13.132508277893067
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000085830688477,
-                    "y": 1.0000042915344239,
-                    "z": 0.5000021457672119
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1668
-            },
-            "parentID": {
-                "value": 1667
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5944409370422364,
-                    "y": -1.6223552227020264,
-                    "z": 13.132685661315918
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000066757202149,
-                    "y": 1.0000041723251343,
-                    "z": 0.5000021457672119
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1669
-            },
-            "parentID": {
-                "value": 1691
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.594451904296875,
-                    "y": -1.8859790563583375,
-                    "z": 12.673506736755371
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.000009536743164,
-                    "y": 1.000004768371582,
-                    "z": 0.500002384185791
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1670
-            },
-            "parentID": {
-                "value": 1669
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5944393873214722,
-                    "y": -1.885982871055603,
-                    "z": 12.673684120178223
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000076293945313,
-                    "y": 1.000004768371582,
-                    "z": 0.500002384185791
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1671
-            },
-            "parentID": {
-                "value": 1691
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.594451904296875,
-                    "y": -2.1571054458618166,
-                    "z": 12.222159385681153
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000102519989014,
-                    "y": 1.0000051259994507,
-                    "z": 0.5000025629997253
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1672
-            },
-            "parentID": {
-                "value": 1671
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5944377183914185,
-                    "y": -2.1571099758148195,
-                    "z": 12.222336769104004
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000083446502686,
-                    "y": 1.0000052452087403,
-                    "z": 0.5000026822090149
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1673
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.594451904296875,
-                    "y": -2.4157543182373049,
-                    "z": 11.78188705444336
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000107288360596,
-                    "y": 1.0000053644180298,
-                    "z": 0.5000026822090149
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1674
-            },
-            "parentID": {
-                "value": 1673
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5944371223449708,
-                    "y": -2.4157590866088869,
-                    "z": 11.782064437866211
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000090599060059,
-                    "y": 1.000005841255188,
-                    "z": 0.5000029802322388
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1675
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.594451904296875,
-                    "y": -2.667693614959717,
-                    "z": 11.340150833129883
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000114440917969,
-                    "y": 1.0000057220458985,
-                    "z": 0.5000028610229492
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1676
-            },
-            "parentID": {
-                "value": 1675
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5944359302520753,
-                    "y": -2.667698860168457,
-                    "z": 11.340328216552735
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000097751617432,
-                    "y": 1.0000063180923463,
-                    "z": 0.5000032186508179
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1677
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.594451904296875,
-                    "y": -2.9312400817871095,
-                    "z": 10.900426864624024
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 90.0199966430664,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000121593475342,
-                    "y": 1.000006079673767,
-                    "z": 0.5000030398368836
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpacePillarProp"
-            },
-            "ID": {
-                "value": 1678
-            },
-            "parentID": {
-                "value": 1677
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5944344997406006,
-                    "y": -2.931245803833008,
-                    "z": 10.900604248046875
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 90.0
-                },
-                "scale": {
-                    "x": 1.0000104904174805,
-                    "y": 1.0000067949295045,
-                    "z": 0.500003457069397
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1679
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.605199933052063,
-                    "y": 0.10473012924194336,
-                    "z": 14.35066032409668
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1680
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.41109561920166,
-                    "y": 0.10472989082336426,
-                    "z": 14.840834617614746
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1681
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.4456000328063969,
-                    "y": 0.10472989082336426,
-                    "z": 11.99299430847168
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1682
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.6172233819961548,
-                    "y": 0.10473012924194336,
-                    "z": 11.697989463806153
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1685
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.605199933052063,
-                    "y": -2.8506295680999758,
-                    "z": 17.284494400024415
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1686
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5607969760894776,
-                    "y": -2.8289108276367189,
-                    "z": 14.35066032409668
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1687
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.5596743822097779,
-                    "y": -2.8289108276367189,
-                    "z": 11.436395645141602
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1688
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.375992774963379,
-                    "y": -2.849355459213257,
-                    "z": 14.840834617614746
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1689
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -4.402622222900391,
-                    "y": -2.849355459213257,
-                    "z": 11.99299430847168
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp2"
-            },
-            "ID": {
-                "value": 1690
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -2.991868019104004,
-                    "y": 0.10473012924194336,
-                    "z": 10.60166072845459
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000029802322388,
-                    "y": 1.000001311302185,
-                    "z": 1.000001311302185
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Empty"
-            },
-            "ID": {
-                "value": 1691
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -3.4649155139923097,
-                    "y": 0.119989775121212,
-                    "z": 13.258088111877442
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 0.00001001791224553017,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.23000000417232514,
-                    "y": 0.23000000417232514,
-                    "z": 0.23000000417232514
-                }
-            },
-            "isObstacle": false,
-            "exportName": "Space Stairs",
-            "elementNameSet": true,
-            "elementName": "Empty",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
             "_switch": [],
             "turnable": [],
             "dial": [],
