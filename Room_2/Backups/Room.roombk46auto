@@ -17,17 +17,17 @@
     "cameraScreenshotRotation": {
         "x": 344.5511169433594,
         "y": 339.74798583984377,
-        "z": 0.000002657334562172764
+        "z": 0.000002435890110064065
     },
     "cameraEditPosition": {
-        "x": -5.834559440612793,
-        "y": 8.83672046661377,
-        "z": -3.2696378231048586
+        "x": 0.5010331869125366,
+        "y": 2.1311089992523195,
+        "z": 20.177059173583986
     },
     "cameraEditRotation": {
-        "x": 30.252605438232423,
-        "y": 100.9023208618164,
-        "z": -9.883782468023128e-7
+        "x": 47.500953674316409,
+        "y": 207.85330200195313,
+        "z": 0.0
     },
     "useNonLegacyLights": false,
     "useNonLegacyFloorColliders": false,
@@ -112,7 +112,7 @@
                             "z": 0.0
                         },
                         "rotation": {
-                            "x": -0.00013816077262163162,
+                            "x": -0.0001381607580697164,
                             "y": -0.0023067002184689047,
                             "z": 353.3140563964844
                         },
@@ -182,9 +182,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 4.45002555847168,
+                    "x": 4.450023651123047,
                     "y": 0.590621829032898,
-                    "z": -0.9377660751342773
+                    "z": -0.9377679824829102
                 },
                 "rotation": {
                     "x": 270.0,
@@ -192,9 +192,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.1509990692138672,
-                    "y": 1.0000022649765015,
-                    "z": 1.000002145767212
+                    "x": 1.1509989500045777,
+                    "y": 1.000002145767212,
+                    "z": 1.0000020265579224
                 }
             },
             "isObstacle": true,
@@ -253,9 +253,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -4.480863571166992,
+                    "x": -4.480862617492676,
                     "y": 0.5705829858779907,
-                    "z": -0.9550409317016602
+                    "z": -0.9550418853759766
                 },
                 "rotation": {
                     "x": 270.0,
@@ -263,9 +263,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000002145767212,
-                    "y": 1.0000022649765015,
-                    "z": 1.000002145767212
+                    "x": 1.0000020265579224,
+                    "y": 1.000002145767212,
+                    "z": 1.0000020265579224
                 }
             },
             "isObstacle": true,
@@ -324,9 +324,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -3.6237404346466066,
+                    "x": -3.6237399578094484,
                     "y": 0.5953826904296875,
-                    "z": -8.368743896484375
+                    "z": -8.368744850158692
                 },
                 "rotation": {
                     "x": 270.0,
@@ -334,9 +334,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000061988830567,
-                    "y": 1.0000046491622925,
-                    "z": 1.0000028610229493
+                    "x": 1.0000057220458985,
+                    "y": 1.0000042915344239,
+                    "z": 1.0000027418136597
                 }
             },
             "isObstacle": true,
@@ -466,7 +466,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.6921559572219849,
+                    "x": -0.6921561360359192,
                     "y": 1.2685643434524537,
                     "z": -11.44187068939209
                 },
@@ -476,9 +476,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000211000442505,
-                    "y": 1.000009298324585,
-                    "z": 1.0000139474868775
+                    "x": 1.0000203847885132,
+                    "y": 1.0000089406967164,
+                    "z": 1.0000135898590088
                 }
             },
             "isObstacle": true,
@@ -537,9 +537,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -4.477931022644043,
+                    "x": -4.477930068969727,
                     "y": 0.5759316682815552,
-                    "z": 0.8886260986328125
+                    "z": 0.8886232376098633
                 },
                 "rotation": {
                     "x": 270.0,
@@ -547,9 +547,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000002145767212,
-                    "y": 1.0000028610229493,
-                    "z": 1.0000026226043702
+                    "x": 1.0000020265579224,
+                    "y": 1.0000027418136597,
+                    "z": 1.000002384185791
                 }
             },
             "isObstacle": true,
@@ -608,9 +608,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 3.573096990585327,
+                    "x": 3.5730960369110109,
                     "y": 0.5906212329864502,
-                    "z": -8.419424057006836
+                    "z": -8.419425010681153
                 },
                 "rotation": {
                     "x": 270.0,
@@ -618,9 +618,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000023603439331,
-                    "y": 1.000016450881958,
-                    "z": 1.0000112056732178
+                    "x": 1.0000230073928834,
+                    "y": 1.0000159740447999,
+                    "z": 1.0000109672546387
                 }
             },
             "isObstacle": true,
@@ -679,7 +679,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 0.830336332321167,
+                    "x": 0.8303353786468506,
                     "y": 1.2652175426483155,
                     "z": -11.331686019897461
                 },
@@ -689,9 +689,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000263452529908,
-                    "y": 1.0000169277191163,
-                    "z": 1.0000128746032715
+                    "x": 1.000025749206543,
+                    "y": 1.000016689300537,
+                    "z": 1.0000126361846924
                 }
             },
             "isObstacle": true,
@@ -760,9 +760,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000245571136475,
-                    "y": 1.0000170469284058,
-                    "z": 1.000011682510376
+                    "x": 1.0000240802764893,
+                    "y": 1.000016689300537,
+                    "z": 1.0000114440917969
                 }
             },
             "isObstacle": true,
@@ -821,19 +821,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 4.450024604797363,
+                    "x": 4.4500226974487309,
                     "y": 0.590621829032898,
-                    "z": 0.8590784072875977
+                    "z": 0.859074592590332
                 },
                 "rotation": {
-                    "x": 270.0,
+                    "x": 270.019775390625,
                     "y": 270.0,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000048875808716,
-                    "y": 1.000004768371582,
-                    "z": 1.0000042915344239
+                    "x": 1.0000046491622925,
+                    "y": 1.000004529953003,
+                    "z": 1.0000039339065552
                 }
             },
             "isObstacle": true,
@@ -1025,7 +1025,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 0.030141592025756837,
+                    "x": 0.030141115188598634,
                     "y": 1.8005588054656983,
                     "z": -12.57006549835205
                 },
@@ -1035,9 +1035,9 @@
                     "z": 273.04754638671877
                 },
                 "scale": {
-                    "x": 4.415712833404541,
-                    "y": 4.41570520401001,
-                    "z": 4.4157819747924809
+                    "x": 4.415711402893066,
+                    "y": 4.415703773498535,
+                    "z": 4.415779113769531
                 }
             },
             "isObstacle": false,
@@ -1106,15 +1106,157 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.3857362270355226,
-                    "y": 1.6950281858444214,
-                    "z": 1.6950281858444214
+                    "x": 2.385735511779785,
+                    "y": 1.6950275897979737,
+                    "z": 1.6950275897979737
                 }
             },
             "isObstacle": true,
             "exportName": "",
             "elementNameSet": true,
             "elementName": "Pillar",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "WallProps/MedievalWallWindowProp"
+            },
+            "ID": {
+                "value": 58
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -2.982816696166992,
+                    "y": 0.09982156753540039,
+                    "z": 1.3595775365829468
+                },
+                "rotation": {
+                    "x": 270.019775390625,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 0.9999998807907105,
+                    "z": 0.9999998807907105
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Medieval Wall Window",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "WallProps/MedievalWallWindowProp"
+            },
+            "ID": {
+                "value": 59
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 2.9407827854156496,
+                    "y": 0.09482288360595703,
+                    "z": 1.3305200338363648
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 1.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0000038146972657,
+                    "z": 1.0000076293945313
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Medieval Wall Window",
             "playerVariableNameSet": true,
             "playerVariableName": "",
             "pickableType": 0,
@@ -1258,7 +1400,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 0.01712954044342041,
+                    "x": 0.017128825187683107,
                     "y": -1.0061838626861573,
                     "z": -4.768831253051758
                 },
@@ -1268,7 +1410,7 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.8466743230819703,
+                    "x": 1.8466737270355225,
                     "y": 1.2536957263946534,
                     "z": 1.2537037134170533
                 }
@@ -1400,6 +1542,219 @@
         },
         {
             "propID": {
+                "value": "Alchemist House/FloorD"
+            },
+            "ID": {
+                "value": 109
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 0.09350934624671936,
+                    "y": 0.03628762066364288,
+                    "z": -9.996636390686036
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 135.85533142089845,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0000170469284058,
+                    "y": 1.0000115633010865,
+                    "z": 1.0000075101852418
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Floor",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Alchemist House/FloorD"
+            },
+            "ID": {
+                "value": 110
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -2.28511643409729,
+                    "y": 0.06014014407992363,
+                    "z": -1.9283541440963746
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 315.5579528808594,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.141634464263916,
+                    "z": 1.0000076293945313
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Floor",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Alchemist House/FloorD"
+            },
+            "ID": {
+                "value": 111
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 2.112645387649536,
+                    "y": 0.06361400336027146,
+                    "z": -7.649493217468262
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 132.94248962402345,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.1420369148254395,
+                    "y": 1.000004768371582,
+                    "z": 1.0000001192092896
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Floor",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
                 "value": "Cylinder"
             },
             "ID": {
@@ -1423,7 +1778,7 @@
                 "scale": {
                     "x": 59.39496612548828,
                     "y": 59.395042419433597,
-                    "z": 1.9575893878936768
+                    "z": 1.9575896263122559
                 }
             },
             "isObstacle": false,
@@ -1548,7 +1903,7 @@
                     "z": 179.999755859375
                 },
                 "scale": {
-                    "x": 1.3289552927017213,
+                    "x": 1.3289549350738526,
                     "y": 1.3289493322372437,
                     "z": 1.8495858907699586
                 }
@@ -1619,9 +1974,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000066757202149,
+                    "x": 1.0000064373016358,
                     "y": 1.0,
-                    "z": 1.0000066757202149
+                    "z": 1.0000064373016358
                 }
             },
             "isObstacle": true,
@@ -1690,9 +2045,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000007152557373,
+                    "x": 1.000006914138794,
                     "y": 1.0,
-                    "z": 1.000007152557373
+                    "z": 1.000006914138794
                 }
             },
             "isObstacle": false,
@@ -1762,8 +2117,8 @@
                 },
                 "scale": {
                     "x": 1.559005618095398,
-                    "y": 1.5589993000030518,
-                    "z": 1.5589993000030518
+                    "y": 1.5589995384216309,
+                    "z": 1.5589995384216309
                 }
             },
             "isObstacle": true,
@@ -1974,9 +2329,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6695795059204102,
+                    "x": 1.6695789098739625,
                     "y": 1.669561505317688,
-                    "z": 1.6695795059204102
+                    "z": 1.6695789098739625
                 }
             },
             "isObstacle": true,
@@ -2035,7 +2390,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 1.072357416152954,
+                    "x": 1.0723564624786378,
                     "y": 0.990952730178833,
                     "z": -11.284698486328125
                 },
@@ -2045,9 +2400,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.2039663791656496,
-                    "y": 2.2039480209350588,
-                    "z": 2.2039432525634767
+                    "x": 2.203965425491333,
+                    "y": 2.2039473056793215,
+                    "z": 2.2039425373077394
                 }
             },
             "isObstacle": true,
@@ -2106,7 +2461,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.9644709229469299,
+                    "x": -0.9644711017608643,
                     "y": 0.9522736072540283,
                     "z": -11.334291458129883
                 },
@@ -2116,9 +2471,9 @@
                     "z": 146.37188720703126
                 },
                 "scale": {
-                    "x": 2.200038194656372,
-                    "y": 2.2000229358673097,
-                    "z": 2.2000229358673097
+                    "x": 2.2000370025634767,
+                    "y": 2.2000226974487306,
+                    "z": 2.2000222206115724
                 }
             },
             "isObstacle": true,
@@ -2177,9 +2532,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 1.862867832183838,
+                    "x": 1.8628664016723633,
                     "y": 1.32206392288208,
-                    "z": -10.363341331481934
+                    "z": -10.36334228515625
                 },
                 "rotation": {
                     "x": 293.1862487792969,
@@ -2187,9 +2542,9 @@
                     "z": -0.00010842356277862564
                 },
                 "scale": {
-                    "x": 2.358412742614746,
+                    "x": 2.358412265777588,
                     "y": 2.3583948612213136,
-                    "z": 2.358408212661743
+                    "z": 2.358407735824585
                 }
             },
             "isObstacle": true,
@@ -2248,9 +2603,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.8342918157577515,
+                    "x": -1.834291696548462,
                     "y": 1.3743829727172852,
-                    "z": -10.38653564453125
+                    "z": -10.386536598205567
                 },
                 "rotation": {
                     "x": 296.84197998046877,
@@ -2258,9 +2613,9 @@
                     "z": 0.9973582029342651
                 },
                 "scale": {
-                    "x": 2.3580305576324465,
-                    "y": 2.358011245727539,
-                    "z": 2.358018636703491
+                    "x": 2.358029365539551,
+                    "y": 2.358010768890381,
+                    "z": 2.358018159866333
                 }
             },
             "isObstacle": true,
@@ -2402,7 +2757,7 @@
                 "scale": {
                     "x": 2.6000003814697267,
                     "y": 2.6000003814697267,
-                    "z": 4.000014305114746
+                    "z": 4.000013828277588
                 }
             },
             "isObstacle": true,
@@ -2461,19 +2816,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -4.481157302856445,
+                    "x": -4.481156349182129,
                     "y": 0.5799611806869507,
-                    "z": -3.586237907409668
+                    "z": -3.5862388610839845
                 },
                 "rotation": {
-                    "x": 270.0,
+                    "x": 270.019775390625,
                     "y": 270.0,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.113532304763794,
-                    "y": 1.000004768371582,
-                    "z": 1.0000042915344239
+                    "x": 1.1135319471359254,
+                    "y": 1.000004529953003,
+                    "z": 1.0000039339065552
                 }
             },
             "isObstacle": true,
@@ -2592,6 +2947,77 @@
         },
         {
             "propID": {
+                "value": "MedievalPillar"
+            },
+            "ID": {
+                "value": 231
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -0.1469999998807907,
+                    "y": 3.23810076713562,
+                    "z": -5.145999908447266
+                },
+                "rotation": {
+                    "x": 270.019775390625,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 0.9999998807907105,
+                    "z": 1.8039714097976685
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Wooden Pillar",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
                 "value": "Alchemist House/VerticalPillar"
             },
             "ID": {
@@ -2608,13 +3034,13 @@
                     "z": -5.30216121673584
                 },
                 "rotation": {
-                    "x": -0.00001001761029328918,
+                    "x": -0.000010017608474299777,
                     "y": -8.459800682203422e-8,
                     "z": 180.4838409423828
                 },
                 "scale": {
-                    "x": 1.6934013366699219,
-                    "y": 1.0000079870224,
+                    "x": 1.6934009790420533,
+                    "y": 1.0000077486038209,
                     "z": 1.0
                 }
             },
@@ -2622,6 +3048,77 @@
             "exportName": "",
             "elementNameSet": true,
             "elementName": "Pillar",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Medieval/Bucket"
+            },
+            "ID": {
+                "value": 234
+            },
+            "parentID": {
+                "value": 231
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -0.1740758866071701,
+                    "y": 8.435320854187012,
+                    "z": -5.157132625579834
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.9418295621871949,
+                    "y": 1.9418295621871949,
+                    "z": 1.9418295621871949
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Bucket",
             "playerVariableNameSet": true,
             "playerVariableName": "",
             "pickableType": 0,
@@ -2684,9 +3181,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 6.885340690612793,
+                    "x": 6.885341644287109,
                     "y": 6.885378837585449,
-                    "z": 16.44390869140625
+                    "z": 16.44391441345215
                 }
             },
             "isObstacle": false,
@@ -2800,9 +3297,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 4.646128177642822,
+                    "x": 4.646129608154297,
                     "y": 4.646191120147705,
-                    "z": 8.679472923278809
+                    "z": 8.679475784301758
                 }
             },
             "isObstacle": false,
@@ -2916,9 +3413,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.644486665725708,
-                    "y": 1.6444857120513917,
-                    "z": 1.6444956064224244
+                    "x": 1.6444863080978394,
+                    "y": 1.644485354423523,
+                    "z": 1.6444950103759766
                 }
             },
             "isObstacle": false,
@@ -2967,7 +3464,7 @@
                         "rotation": {
                             "x": 359.96551513671877,
                             "y": 5.735351085662842,
-                            "z": -0.001636110944673419
+                            "z": -0.0016361108282580972
                         },
                         "scale": {
                             "x": 0.9999999403953552,
@@ -3145,11 +3642,11 @@
                 "rotation": {
                     "x": 89.00357818603516,
                     "y": 233.820556640625,
-                    "z": 143.81675720214845
+                    "z": 143.8168182373047
                 },
                 "scale": {
                     "x": 1.2172586917877198,
-                    "y": 1.217255711555481,
+                    "y": 1.2172553539276124,
                     "z": 1.2172558307647706
                 }
             },
@@ -3197,7 +3694,7 @@
                             "z": 0.00018748290312942117
                         },
                         "rotation": {
-                            "x": 0.0072849285788834099,
+                            "x": 0.007284928113222122,
                             "y": 7.687693119049072,
                             "z": 359.892333984375
                         },
@@ -3380,9 +3877,9 @@
                     "z": 267.90460205078127
                 },
                 "scale": {
-                    "x": 2.0969314575195314,
-                    "y": 2.0969417095184328,
-                    "z": 2.7538228034973146
+                    "x": 2.096930742263794,
+                    "y": 2.096940755844116,
+                    "z": 2.7538225650787355
                 }
             },
             "isObstacle": false,
@@ -3429,9 +3926,9 @@
                             "z": 0.0
                         },
                         "rotation": {
-                            "x": 0.8024594783782959,
+                            "x": 0.8024593591690064,
                             "y": 359.75396728515627,
-                            "z": 4.775809288024902
+                            "z": 4.775808334350586
                         },
                         "scale": {
                             "x": 0.9999906420707703,
@@ -3502,7 +3999,7 @@
                 },
                 "scale": {
                     "x": 2.4060802459716799,
-                    "y": 2.40606951713562,
+                    "y": 2.406069755554199,
                     "z": 2.406079053878784
                 }
             },
@@ -3623,7 +4120,7 @@
                 },
                 "scale": {
                     "x": 2.2702126502990724,
-                    "y": 2.2702293395996095,
+                    "y": 2.270228862762451,
                     "z": 2.5101969242095949
                 }
             },
@@ -3672,8 +4169,8 @@
                         },
                         "rotation": {
                             "x": 359.5513000488281,
-                            "y": 0.09329073876142502,
-                            "z": 4.8296732902526859
+                            "y": 0.09329073131084442,
+                            "z": 4.829672813415527
                         },
                         "scale": {
                             "x": 0.9999995231628418,
@@ -3744,8 +4241,8 @@
                 },
                 "scale": {
                     "x": 2.4417333602905275,
-                    "y": 2.4417645931243898,
-                    "z": 2.4417500495910646
+                    "y": 2.4417638778686525,
+                    "z": 2.4417498111724855
                 }
             },
             "isObstacle": false,
@@ -3792,7 +4289,7 @@
                             "z": 0.0
                         },
                         "rotation": {
-                            "x": 0.042026784271001819,
+                            "x": 0.04202677682042122,
                             "y": 359.74853515625,
                             "z": 351.261962890625
                         },
@@ -3864,9 +4361,9 @@
                     "z": 238.015625
                 },
                 "scale": {
-                    "x": 2.7535080909729006,
-                    "y": 2.7535011768341066,
-                    "z": 3.408524751663208
+                    "x": 2.7535088062286379,
+                    "y": 2.7535014152526857,
+                    "z": 3.40852427482605
                 }
             },
             "isObstacle": false,
@@ -3985,9 +4482,9 @@
                     "z": 251.744384765625
                 },
                 "scale": {
-                    "x": 2.700014114379883,
-                    "y": 2.7000136375427248,
-                    "z": 3.2833340167999269
+                    "x": 2.7000138759613039,
+                    "y": 2.7000133991241457,
+                    "z": 3.2833333015441896
                 }
             },
             "isObstacle": false,
@@ -4036,7 +4533,7 @@
                         "rotation": {
                             "x": 358.024658203125,
                             "y": 359.2335205078125,
-                            "z": 5.900243759155273
+                            "z": 5.900243282318115
                         },
                         "scale": {
                             "x": 0.9999794960021973,
@@ -4106,7 +4603,7 @@
                     "z": 292.780029296875
                 },
                 "scale": {
-                    "x": 4.5814666748046879,
+                    "x": 4.581465244293213,
                     "y": 2.0000038146972658,
                     "z": 3.2504749298095705
                 }
@@ -4156,7 +4653,7 @@
                         },
                         "rotation": {
                             "x": 359.4151611328125,
-                            "y": 0.9234934449195862,
+                            "y": 0.9234936833381653,
                             "z": 5.362959384918213
                         },
                         "scale": {
@@ -4465,7 +4962,7 @@
                 "rotation": {
                     "x": 89.40061950683594,
                     "y": 180.0,
-                    "z": 0.0000051739120863203429
+                    "z": 0.000005173929366719676
                 },
                 "scale": {
                     "x": 0.5,
@@ -4583,14 +5080,14 @@
                     "z": -5.408066272735596
                 },
                 "rotation": {
-                    "x": 0.28310224413871767,
+                    "x": 0.28309711813926699,
                     "y": 269.9801025390625,
                     "z": 269.9998779296875
                 },
                 "scale": {
-                    "x": 0.5000016689300537,
-                    "y": 0.5000014305114746,
-                    "z": 1.3406667709350587
+                    "x": 0.5000015497207642,
+                    "y": 0.5000013709068298,
+                    "z": 1.340666651725769
                 }
             },
             "isObstacle": false,
@@ -4730,9 +5227,9 @@
                     "z": 291.4007568359375
                 },
                 "scale": {
-                    "x": 2.000018835067749,
+                    "x": 2.000018358230591,
                     "y": 2.000009536743164,
-                    "z": 3.000046968460083
+                    "z": 3.0000460147857668
                 }
             },
             "isObstacle": false,
@@ -4973,7 +5470,7 @@
                 },
                 "scale": {
                     "x": 2.0000061988830568,
-                    "y": 2.000009536743164,
+                    "y": 2.000009298324585,
                     "z": 3.2534019947052
                 }
             },
@@ -5023,7 +5520,7 @@
                         "rotation": {
                             "x": 0.6063969135284424,
                             "y": 359.5223693847656,
-                            "z": 3.9713034629821779
+                            "z": 3.9713029861450197
                         },
                         "scale": {
                             "x": 0.9999486804008484,
@@ -5093,8 +5590,8 @@
                     "z": 249.65074157714845
                 },
                 "scale": {
-                    "x": 3.8624107837677,
-                    "y": 3.538726568222046,
+                    "x": 3.862409830093384,
+                    "y": 3.5387258529663088,
                     "z": 3.1441452503204347
                 }
             },
@@ -5324,19 +5821,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 4.451827049255371,
+                    "x": 4.451825141906738,
                     "y": 0.5904622077941895,
-                    "z": -6.91417932510376
+                    "z": -6.914180278778076
                 },
                 "rotation": {
-                    "x": 270.0,
+                    "x": 270.019775390625,
                     "y": 270.0,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000048875808716,
-                    "y": 1.000004768371582,
-                    "z": 1.0000042915344239
+                    "x": 1.0000046491622925,
+                    "y": 1.000004529953003,
+                    "z": 1.0000039339065552
                 }
             },
             "isObstacle": true,
@@ -5395,19 +5892,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 4.454631805419922,
+                    "x": 4.454629898071289,
                     "y": 0.5846822261810303,
-                    "z": -3.611018180847168
+                    "z": -3.611020088195801
                 },
                 "rotation": {
-                    "x": 270.0,
+                    "x": 270.019775390625,
                     "y": 270.0,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000048875808716,
-                    "y": 1.000004768371582,
-                    "z": 1.0000042915344239
+                    "x": 1.0000046491622925,
+                    "y": 1.000004529953003,
+                    "z": 1.0000039339065552
                 }
             },
             "isObstacle": true,
@@ -5618,9 +6115,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.000011444091797,
+                    "x": 2.0000109672546388,
                     "y": 2.0,
-                    "z": 2.000011444091797
+                    "z": 2.0000109672546388
                 }
             },
             "isObstacle": false,
@@ -5679,19 +6176,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -4.453271865844727,
+                    "x": -4.45327091217041,
                     "y": 0.5932208299636841,
-                    "z": -6.880690097808838
+                    "z": -6.880690574645996
                 },
                 "rotation": {
-                    "x": 270.0,
+                    "x": 270.019775390625,
                     "y": 270.0,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000048875808716,
-                    "y": 1.000004768371582,
-                    "z": 1.0000042915344239
+                    "x": 1.0000046491622925,
+                    "y": 1.000004529953003,
+                    "z": 1.0000039339065552
                 }
             },
             "isObstacle": true,
@@ -6018,9 +6515,9 @@
                     "z": 354.2449035644531
                 },
                 "scale": {
-                    "x": 2.810969352722168,
-                    "y": 2.8109734058380129,
-                    "z": 2.810985565185547
+                    "x": 2.8109688758850099,
+                    "y": 2.8109731674194338,
+                    "z": 2.8109853267669679
                 }
             },
             "isObstacle": true,
@@ -6067,9 +6564,9 @@
                             "z": 0.007902039214968682
                         },
                         "rotation": {
-                            "x": 7.293456077575684,
-                            "y": 0.8040679097175598,
-                            "z": 8.761773109436036
+                            "x": 7.293455600738525,
+                            "y": 0.8040677905082703,
+                            "z": 8.761772155761719
                         },
                         "scale": {
                             "x": 1.0,
@@ -6371,9 +6868,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.250058650970459,
-                    "y": 2.250030040740967,
-                    "z": 2.250030040740967
+                    "x": 2.2500579357147219,
+                    "y": 2.2500295639038088,
+                    "z": 2.2500295639038088
                 }
             },
             "isObstacle": false,
@@ -6485,8 +6982,8 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0000085830688477,
-                    "z": 1.0000085830688477
+                    "y": 1.0000083446502686,
+                    "z": 1.0000083446502686
                 }
             },
             "isObstacle": false,
@@ -6621,7 +7118,7 @@
                             "z": 0.0
                         },
                         "rotation": {
-                            "x": 1.4074156950982797e-8,
+                            "x": 1.4074155174625958e-8,
                             "y": -0.0000068301751525723379,
                             "z": 180.2361297607422
                         },
@@ -6688,8 +7185,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 5.057977676391602,
-                    "y": 5.629226207733154,
+                    "x": 5.057977199554443,
+                    "y": 5.629225730895996,
                     "z": 0.7800770998001099
                 }
             },
@@ -6760,8 +7257,8 @@
                 },
                 "scale": {
                     "x": 0.12301038205623627,
-                    "y": 0.11652226001024246,
-                    "z": 0.10000208765268326
+                    "y": 0.11652222275733948,
+                    "z": 0.10000205039978028
                 }
             },
             "isObstacle": false,
@@ -6892,8 +7389,8 @@
                 },
                 "scale": {
                     "x": 0.09999999403953552,
-                    "y": 0.10000142455101013,
-                    "z": 0.10000120848417282
+                    "y": 0.10000137984752655,
+                    "z": 0.10000117123126984
                 }
             },
             "isObstacle": false,
@@ -6967,9 +7464,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.10000130534172058,
-                    "y": 0.10000141710042954,
-                    "z": 0.10000132769346237
+                    "x": 0.1000012680888176,
+                    "y": 0.10000137239694596,
+                    "z": 0.10000129044055939
                 }
             },
             "isObstacle": false,
@@ -7119,9 +7616,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.10000056028366089,
-                    "y": 0.1000010222196579,
-                    "z": 0.10000136494636536
+                    "x": 0.1000005379319191,
+                    "y": 0.10000099241733551,
+                    "z": 0.10000132769346237
                 }
             },
             "isObstacle": false,
@@ -7425,7 +7922,7 @@
                 "scale": {
                     "x": 2.4507524967193605,
                     "y": 2.450763463973999,
-                    "z": 2.4507620334625246
+                    "z": 2.450761318206787
                 }
             },
             "isObstacle": false,
@@ -7489,12 +7986,12 @@
                     "z": -7.641800403594971
                 },
                 "rotation": {
-                    "x": 88.6773681640625,
+                    "x": 88.67721557617188,
                     "y": 249.65719604492188,
-                    "z": 156.65184020996095
+                    "z": 156.6517791748047
                 },
                 "scale": {
-                    "x": 2.315251111984253,
+                    "x": 2.315250873565674,
                     "y": 2.3152480125427248,
                     "z": 2.3152525424957277
                 }
@@ -7567,7 +8064,7 @@
                 "scale": {
                     "x": 1.999997615814209,
                     "y": 2.000007152557373,
-                    "z": 2.0000107288360597
+                    "z": 2.0000102519989015
                 }
             },
             "isObstacle": false,
@@ -7707,7 +8204,7 @@
                     "z": 356.62530517578127
                 },
                 "scale": {
-                    "x": 2.568840503692627,
+                    "x": 2.5688400268554689,
                     "y": 2.5688397884368898,
                     "z": 2.568840980529785
                 }
@@ -7922,7 +8419,7 @@
                 "scale": {
                     "x": 1.0000003576278687,
                     "y": 1.0000003576278687,
-                    "z": 1.0000081062316895
+                    "z": 1.0000078678131104
                 }
             },
             "isObstacle": false,
@@ -7991,13 +8488,13 @@
                     "z": -4.89033842086792
                 },
                 "rotation": {
-                    "x": 0.34285059571266177,
+                    "x": 0.34285056591033938,
                     "y": 178.92811584472657,
                     "z": 176.7950439453125
                 },
                 "scale": {
-                    "x": 1.0000033378601075,
-                    "y": 1.0000064373016358,
+                    "x": 1.0000032186508179,
+                    "y": 1.0000063180923463,
                     "z": 1.0000035762786866
                 }
             },
@@ -8067,9 +8564,9 @@
                     "z": 89.9999771118164
                 },
                 "scale": {
-                    "x": 1.0000020265579224,
-                    "y": 1.0000033378601075,
-                    "z": 1.000004529953003
+                    "x": 1.0000019073486329,
+                    "y": 1.0000030994415284,
+                    "z": 1.0000040531158448
                 }
             },
             "isObstacle": false,
@@ -8138,9 +8635,9 @@
                     "z": 25.621517181396486
                 },
                 "scale": {
-                    "x": 1.000006914138794,
+                    "x": 1.0000066757202149,
                     "y": 0.9999999403953552,
-                    "z": 1.0000077486038209
+                    "z": 1.0000075101852418
                 }
             },
             "isObstacle": false,
@@ -8275,8 +8772,8 @@
                     "z": -4.946350574493408
                 },
                 "rotation": {
-                    "x": 2.3822457790374758,
-                    "y": -9.10425489338007e-13,
+                    "x": 2.3822455406188967,
+                    "y": -9.167920329150592e-13,
                     "z": 180.0
                 },
                 "scale": {
@@ -8347,13 +8844,13 @@
                 },
                 "rotation": {
                     "x": 2.1822807788848879,
-                    "y": 0.9668382406234741,
+                    "y": 0.9668381810188294,
                     "z": 203.90235900878907
                 },
                 "scale": {
-                    "x": 0.7597146034240723,
-                    "y": 0.7597126960754395,
-                    "z": 0.7597053647041321
+                    "x": 0.7597144246101379,
+                    "y": 0.7597126364707947,
+                    "z": 0.7597054839134216
                 }
             },
             "isObstacle": false,
@@ -8422,8 +8919,8 @@
                     "z": 180.0
                 },
                 "scale": {
-                    "x": 0.7785799503326416,
-                    "y": 0.7785733342170715,
+                    "x": 0.778579592704773,
+                    "y": 0.7785731554031372,
                     "z": 0.7785680890083313
                 }
             },
@@ -8488,13 +8985,13 @@
                     "z": -4.941981792449951
                 },
                 "rotation": {
-                    "x": 5.762030601501465,
+                    "x": 5.762030124664307,
                     "y": -1.2531087278944142e-12,
                     "z": 180.0
                 },
                 "scale": {
                     "x": 0.8450474739074707,
-                    "y": 0.8450521230697632,
+                    "y": 0.8450520038604736,
                     "z": 0.8450475335121155
                 }
             },
@@ -8565,8 +9062,8 @@
                 },
                 "scale": {
                     "x": 0.675511360168457,
-                    "y": 0.6755141615867615,
-                    "z": 0.6755141615867615
+                    "y": 0.6755141019821167,
+                    "z": 0.6755141019821167
                 }
             },
             "isObstacle": false,
@@ -8630,7 +9127,7 @@
                     "z": -5.348877429962158
                 },
                 "rotation": {
-                    "x": 3.8179209232330324,
+                    "x": 3.8179211616516115,
                     "y": 180.0,
                     "z": 180.0
                 },
@@ -8778,8 +9275,8 @@
                 },
                 "scale": {
                     "x": 0.7184762358665466,
-                    "y": 0.7184876203536987,
-                    "z": 0.718485414981842
+                    "y": 0.7184873819351196,
+                    "z": 0.7184851765632629
                 }
             },
             "isObstacle": false,
@@ -8920,8 +9417,8 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0000061988830567,
-                    "z": 1.0000061988830567
+                    "y": 1.0000059604644776,
+                    "z": 1.0000059604644776
                 }
             },
             "isObstacle": false,
@@ -9042,9 +9539,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000094175338746,
-                    "y": 1.0000097751617432,
-                    "z": 1.0000097751617432
+                    "x": 1.0000090599060059,
+                    "y": 1.000009536743164,
+                    "z": 1.000009536743164
                 }
             },
             "isObstacle": false,
@@ -9288,9 +9785,9 @@
                     "z": 359.94384765625
                 },
                 "scale": {
-                    "x": 2.220996618270874,
-                    "y": 2.220991373062134,
-                    "z": 2.2209997177124025
+                    "x": 2.220996379852295,
+                    "y": 2.2209908962249758,
+                    "z": 2.220999240875244
                 }
             },
             "isObstacle": false,
@@ -9401,11 +9898,11 @@
                 "rotation": {
                     "x": 359.35064697265627,
                     "y": 85.28626251220703,
-                    "z": 0.6477283239364624
+                    "z": 0.6477282047271729
                 },
                 "scale": {
-                    "x": 1.581973671913147,
-                    "y": 1.5819681882858277,
+                    "x": 1.5819734334945679,
+                    "y": 1.581967830657959,
                     "z": 1.5819679498672486
                 }
             },
@@ -9569,9 +10066,9 @@
                             "z": 0.0
                         },
                         "rotation": {
-                            "x": 3.1004385948181154,
+                            "x": 3.100438356399536,
                             "y": 355.3057556152344,
-                            "z": 4.322085857391357
+                            "z": 4.322085380554199
                         },
                         "scale": {
                             "x": 0.9999999403953552,
@@ -9636,14 +10133,14 @@
                     "z": -42.77655792236328
                 },
                 "rotation": {
-                    "x": -0.000009175929335469846,
+                    "x": -0.000009175928425975144,
                     "y": 233.59320068359376,
                     "z": 0.0000030174953735695455
                 },
                 "scale": {
-                    "x": 0.9804364442825317,
+                    "x": 0.9804359674453735,
                     "y": 0.9804224371910095,
-                    "z": 0.9804364442825317
+                    "z": 0.9804359674453735
                 }
             },
             "isObstacle": true,
@@ -9692,7 +10189,7 @@
                         "rotation": {
                             "x": 356.7292785644531,
                             "y": 354.7347106933594,
-                            "z": 2.90716552734375
+                            "z": 2.907165288925171
                         },
                         "scale": {
                             "x": 1.0000001192092896,
@@ -9763,8 +10260,8 @@
                 },
                 "scale": {
                     "x": 1.0000004768371583,
-                    "y": 1.0000081062316895,
-                    "z": 1.0000081062316895
+                    "y": 1.0000078678131104,
+                    "z": 1.0000078678131104
                 }
             },
             "isObstacle": false,
@@ -9844,9 +10341,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000014305114746,
-                    "y": 1.000007152557373,
-                    "z": 1.000007152557373
+                    "x": 1.000013828277588,
+                    "y": 1.000006914138794,
+                    "z": 1.000006914138794
                 }
             },
             "isObstacle": false,
@@ -9927,8 +10424,8 @@
                 },
                 "scale": {
                     "x": 1.0000004768371583,
-                    "y": 1.0000064373016358,
-                    "z": 1.0000064373016358
+                    "y": 1.0000061988830567,
+                    "z": 1.0000061988830567
                 }
             },
             "isObstacle": false,
@@ -10008,9 +10505,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000128746032715,
-                    "y": 1.0000064373016358,
-                    "z": 1.0000064373016358
+                    "x": 1.0000123977661133,
+                    "y": 1.0000061988830567,
+                    "z": 1.0000061988830567
                 }
             },
             "isObstacle": false,
@@ -10173,8 +10670,8 @@
                 },
                 "scale": {
                     "x": 43.28828048706055,
-                    "y": 22.15381622314453,
-                    "z": 1.9580086469650269
+                    "y": 22.153812408447267,
+                    "z": 1.958008885383606
                 }
             },
             "isObstacle": false,
@@ -10585,9 +11082,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.2360992431640627,
+                    "x": 2.2360987663269045,
                     "y": 2.2360901832580568,
-                    "z": 2.2360992431640627
+                    "z": 2.2360987663269045
                 }
             },
             "isObstacle": false,
@@ -10656,9 +11153,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.000004768371582,
+                    "x": 2.000004529953003,
                     "y": 2.0,
-                    "z": 2.000004768371582
+                    "z": 2.000004529953003
                 }
             },
             "isObstacle": false,
@@ -10810,9 +11307,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000157356262208,
-                    "y": 1.0000078678131104,
-                    "z": 1.0000078678131104
+                    "x": 1.0000152587890626,
+                    "y": 1.0000076293945313,
+                    "z": 1.0000076293945313
                 }
             },
             "isObstacle": false,
@@ -10892,9 +11389,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000014305114746,
-                    "y": 1.0000104904174805,
-                    "z": 1.0000097751617432
+                    "x": 1.0000145435333253,
+                    "y": 1.0000102519989014,
+                    "z": 1.000009536743164
                 }
             },
             "isObstacle": false,
@@ -10974,9 +11471,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000054836273194,
+                    "x": 1.0000052452087403,
                     "y": 1.0,
-                    "z": 1.4639815092086793
+                    "z": 1.4639813899993897
                 }
             },
             "isObstacle": true,
@@ -11046,8 +11543,8 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.000003457069397,
-                    "z": 1.000003457069397
+                    "y": 1.0000033378601075,
+                    "z": 1.0000033378601075
                 }
             },
             "isObstacle": false,
@@ -11116,9 +11613,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.608055591583252,
+                    "x": 0.6080554723739624,
                     "y": 0.608052134513855,
-                    "z": 0.608055591583252
+                    "z": 0.6080554723739624
                 }
             },
             "isObstacle": false,
@@ -11187,9 +11684,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.6080559492111206,
+                    "x": 0.608055830001831,
                     "y": 0.608052134513855,
-                    "z": 0.6080559492111206
+                    "z": 0.608055830001831
                 }
             },
             "isObstacle": false,
@@ -11259,8 +11756,8 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0000041723251343,
-                    "z": 1.0000041723251343
+                    "y": 1.0000040531158448,
+                    "z": 1.0000040531158448
                 }
             },
             "isObstacle": false,
@@ -11324,14 +11821,14 @@
                     "z": -12.099705696105957
                 },
                 "rotation": {
-                    "x": 0.000007244535481731873,
+                    "x": 0.0000072445336627424698,
                     "y": 270.0,
                     "z": -0.000004829680165130412
                 },
                 "scale": {
-                    "x": 0.230001300573349,
+                    "x": 0.23000124096870423,
                     "y": 0.22999998927116395,
-                    "z": 0.23000134527683259
+                    "z": 0.2300012856721878
                 }
             },
             "isObstacle": false,
@@ -11390,7 +11887,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 0.843482255935669,
+                    "x": 0.8434817790985107,
                     "y": 0.4172358512878418,
                     "z": -11.414864540100098
                 },
@@ -11400,9 +11897,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 15.866105079650879,
-                    "y": 1.6950265169143677,
-                    "z": 1.276995062828064
+                    "x": 15.866100311279297,
+                    "y": 1.6950263977050782,
+                    "z": 1.2769947052001954
                 }
             },
             "isObstacle": true,
@@ -11461,19 +11958,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.8740543723106384,
+                    "x": -0.874054491519928,
                     "y": 0.4172356128692627,
                     "z": -11.34376335144043
                 },
                 "rotation": {
                     "x": 270.0,
-                    "y": 45.89936828613281,
+                    "y": 45.89937210083008,
                     "z": 0.0
                 },
                 "scale": {
                     "x": 15.866039276123047,
-                    "y": 1.6950266361236573,
-                    "z": 1.2769936323165894
+                    "y": 1.695026159286499,
+                    "z": 1.2769932746887208
                 }
             },
             "isObstacle": true,
@@ -11532,7 +12029,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -2.4572386741638185,
+                    "x": -2.45723819732666,
                     "y": 0.18180465698242188,
                     "z": -9.66240119934082
                 },
@@ -11542,9 +12039,9 @@
                     "z": 90.57826232910156
                 },
                 "scale": {
-                    "x": 15.866103172302246,
-                    "y": 1.6950347423553467,
-                    "z": 1.2769986391067505
+                    "x": 15.866100311279297,
+                    "y": 1.6950340270996094,
+                    "z": 1.2769979238510132
                 }
             },
             "isObstacle": true,
@@ -11603,9 +12100,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 2.4714913368225099,
+                    "x": 2.471489906311035,
                     "y": 0.18180465698242188,
-                    "z": -9.699798583984375
+                    "z": -9.699799537658692
                 },
                 "rotation": {
                     "x": 285.86004638671877,
@@ -11613,9 +12110,9 @@
                     "z": 90.5783462524414
                 },
                 "scale": {
-                    "x": 15.866195678710938,
-                    "y": 1.6950335502624512,
-                    "z": 1.276996374130249
+                    "x": 15.866189956665039,
+                    "y": 1.695033311843872,
+                    "z": 1.2769962549209595
                 }
             },
             "isObstacle": true,
@@ -11674,9 +12171,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 2.721583604812622,
+                    "x": 2.7215826511383058,
                     "y": 1.070077657699585,
-                    "z": -9.344972610473633
+                    "z": -9.34497356414795
                 },
                 "rotation": {
                     "x": 293.186279296875,
@@ -11684,9 +12181,9 @@
                     "z": -0.00016480358317494392
                 },
                 "scale": {
-                    "x": 2.358417510986328,
+                    "x": 2.35841703414917,
                     "y": 2.358395576477051,
-                    "z": 2.3584141731262209
+                    "z": 2.3584139347076418
                 }
             },
             "isObstacle": true,
@@ -11745,7 +12242,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -2.8209896087646486,
+                    "x": -2.8209891319274904,
                     "y": 1.1282403469085694,
                     "z": -9.305290222167969
                 },
@@ -11755,9 +12252,9 @@
                     "z": 0.9973582029342651
                 },
                 "scale": {
-                    "x": 2.3580336570739748,
-                    "y": 2.3580126762390138,
-                    "z": 2.358018636703491
+                    "x": 2.358032703399658,
+                    "y": 2.3580121994018556,
+                    "z": 2.358018159866333
                 }
             },
             "isObstacle": true,
@@ -11826,8 +12323,8 @@
                     "z": 1.396042823791504
                 },
                 "scale": {
-                    "x": 1.111032247543335,
-                    "y": 3.8701491355895998,
+                    "x": 1.1110321283340455,
+                    "y": 3.8701486587524416,
                     "z": 1.0
                 }
             },
@@ -11898,7 +12395,7 @@
                 },
                 "scale": {
                     "x": 1.5946357250213624,
-                    "y": 3.870151996612549,
+                    "y": 3.8701515197753908,
                     "z": 0.9999999403953552
                 }
             },
@@ -11968,9 +12465,9 @@
                     "z": 1.3960661888122559
                 },
                 "scale": {
-                    "x": 1.5946388244628907,
+                    "x": 1.5946381092071534,
                     "y": 3.870148181915283,
-                    "z": 0.9999990463256836
+                    "z": 0.9999988079071045
                 }
             },
             "isObstacle": true,
@@ -12110,9 +12607,9 @@
                     "z": 359.3365783691406
                 },
                 "scale": {
-                    "x": 2.6121697425842287,
-                    "y": 3.8701553344726564,
-                    "z": 1.0000061988830567
+                    "x": 2.612169027328491,
+                    "y": 3.870154857635498,
+                    "z": 1.0000059604644776
                 }
             },
             "isObstacle": true,
@@ -12181,9 +12678,9 @@
                     "z": 359.3365783691406
                 },
                 "scale": {
-                    "x": 2.6121718883514406,
-                    "y": 3.870156764984131,
-                    "z": 1.000006914138794
+                    "x": 2.612171173095703,
+                    "y": 3.8701562881469728,
+                    "z": 1.0000066757202149
                 }
             },
             "isObstacle": true,
@@ -12252,9 +12749,9 @@
                     "z": 359.3365783691406
                 },
                 "scale": {
-                    "x": 0.5162274241447449,
-                    "y": 3.870159149169922,
-                    "z": 1.0000081062316895
+                    "x": 0.5162272453308106,
+                    "y": 3.8701586723327638,
+                    "z": 1.0000078678131104
                 }
             },
             "isObstacle": true,
@@ -12323,9 +12820,9 @@
                     "z": 359.3365783691406
                 },
                 "scale": {
-                    "x": 0.5162283182144165,
-                    "y": 3.870161533355713,
-                    "z": 1.000009298324585
+                    "x": 0.5162281394004822,
+                    "y": 3.8701610565185549,
+                    "z": 1.0000090599060059
                 }
             },
             "isObstacle": true,
@@ -12394,9 +12891,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000052452087403,
+                    "x": 1.0000050067901612,
                     "y": 1.0,
-                    "z": 1.186341404914856
+                    "z": 1.1863411664962769
                 }
             },
             "isObstacle": true,
@@ -12465,9 +12962,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000057220458985,
+                    "x": 1.0000054836273194,
                     "y": 1.0,
-                    "z": 1.142455816268921
+                    "z": 1.1424555778503419
                 }
             },
             "isObstacle": true,
@@ -12751,7 +13248,7 @@
                 "scale": {
                     "x": 0.42573943734169009,
                     "y": 1.0,
-                    "z": 0.7781804203987122
+                    "z": 0.7781803011894226
                 }
             },
             "isObstacle": false,
@@ -12891,8 +13388,8 @@
                     "z": 180.0
                 },
                 "scale": {
-                    "x": 1.0000039339065552,
-                    "y": 1.0000064373016358,
+                    "x": 1.0000038146972657,
+                    "y": 1.0000063180923463,
                     "z": 1.0000032186508179
                 }
             },
@@ -12963,7 +13460,7 @@
                 },
                 "scale": {
                     "x": 1.2076202630996705,
-                    "y": 1.2076210975646973,
+                    "y": 1.2076209783554078,
                     "z": 1.2076205015182496
                 }
             },
@@ -13078,9 +13575,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000009536743164,
-                    "y": 1.000004768371582,
-                    "z": 1.000004768371582
+                    "x": 1.0000090599060059,
+                    "y": 1.000004529953003,
+                    "z": 1.000004529953003
                 }
             },
             "isObstacle": false,
@@ -13160,9 +13657,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000090599060059,
-                    "y": 1.000004529953003,
-                    "z": 1.000004529953003
+                    "x": 1.0000085830688477,
+                    "y": 1.0000042915344239,
+                    "z": 1.0000042915344239
                 }
             },
             "isObstacle": false,
@@ -13324,9 +13821,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000014305114746,
-                    "y": 1.000007152557373,
-                    "z": 1.000007152557373
+                    "x": 1.000013828277588,
+                    "y": 1.000006914138794,
+                    "z": 1.000006914138794
                 }
             },
             "isObstacle": false,
@@ -13406,9 +13903,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000170469284058,
-                    "y": 1.0000132322311402,
-                    "z": 1.0000042915344239
+                    "x": 1.0000165700912476,
+                    "y": 1.000012993812561,
+                    "z": 1.0000040531158448
                 }
             },
             "isObstacle": false,
@@ -13499,9 +13996,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.23000262677669526,
+                    "x": 0.23000256717205048,
                     "y": 0.23000000417232514,
-                    "z": 0.23000262677669526
+                    "z": 0.23000256717205048
                 }
             },
             "isObstacle": false,
@@ -14041,9 +14538,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000019073486329,
-                    "y": 1.0000014305114747,
-                    "z": 1.0000014305114747
+                    "x": 1.0000014305114747,
+                    "y": 1.0000011920928956,
+                    "z": 1.0000011920928956
                 }
             },
             "isObstacle": false,
@@ -14255,8 +14752,8 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0000026226043702,
-                    "z": 1.0000026226043702
+                    "y": 1.000002384185791,
+                    "z": 1.000002384185791
                 }
             },
             "isObstacle": false,
@@ -14325,9 +14822,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000002384185791,
-                    "y": 1.0000011920928956,
-                    "z": 1.0000011920928956
+                    "x": 1.0000019073486329,
+                    "y": 1.0000009536743165,
+                    "z": 1.0000009536743165
                 }
             },
             "isObstacle": false,
@@ -14751,9 +15248,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.8500038385391235,
-                    "y": 1.0000026226043702,
-                    "z": 1.0000026226043702
+                    "x": 0.8500035405158997,
+                    "y": 1.000002384185791,
+                    "z": 1.000002384185791
                 }
             },
             "isObstacle": false,
@@ -14822,9 +15319,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.8563715219497681,
-                    "y": 1.0000064373016358,
-                    "z": 1.0000066757202149
+                    "x": 0.8563712239265442,
+                    "y": 1.0000061988830567,
+                    "z": 1.0000064373016358
                 }
             },
             "isObstacle": false,
@@ -14883,8 +15380,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 3.8666725158691408,
-                    "y": 0.5014989376068115,
+                    "x": 3.866671562194824,
+                    "y": 0.5014986991882324,
                     "z": 24.381385803222658
                 },
                 "rotation": {
@@ -14893,9 +15390,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000056028366089,
-                    "y": 1.0000030994415284,
-                    "z": 1.0000030994415284
+                    "x": 1.0000051259994507,
+                    "y": 1.0000028610229493,
+                    "z": 1.0000028610229493
                 }
             },
             "isObstacle": false,
@@ -14954,8 +15451,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 3.850048542022705,
-                    "y": 1.9935369491577149,
+                    "x": 3.8500475883483888,
+                    "y": 1.9935367107391358,
                     "z": 24.38326072692871
                 },
                 "rotation": {
@@ -14964,9 +15461,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.000009298324585,
-                    "y": 1.000004768371582,
-                    "z": 1.000004768371582
+                    "x": 1.0000087022781373,
+                    "y": 1.000004529953003,
+                    "z": 1.000004529953003
                 }
             },
             "isObstacle": false,
@@ -15527,14 +16024,14 @@
                     "z": 17.117877960205079
                 },
                 "rotation": {
-                    "x": 270.019775390625,
+                    "x": 270.0279541015625,
                     "y": 270.0,
                     "z": 0.0
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.0
+                    "y": 0.9999998807907105,
+                    "z": 0.9999998807907105
                 }
             },
             "isObstacle": true,
@@ -15662,6 +16159,77 @@
                     "useRigidbodyApplied": true
                 }
             ],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Alchemist House/FloorD"
+            },
+            "ID": {
+                "value": 1613
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -2.1022136211395265,
+                    "y": 0.03889758512377739,
+                    "z": -7.649493217468262
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 47.14255142211914,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.1420369148254395,
+                    "y": 1.0000061988830567,
+                    "z": 1.0000015497207642
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Floor",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
             "turnable": [],
             "dial": [],
             "zoomable": [],
@@ -15857,8 +16425,8 @@
                 },
                 "scale": {
                     "x": 1.1593058109283448,
-                    "y": 1.0000063180923463,
-                    "z": 1.11117684841156
+                    "y": 1.000006079673767,
+                    "z": 1.111176609992981
                 }
             },
             "isObstacle": true,
@@ -16038,8 +16606,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.9999997615814209,
-                    "y": 0.9999996423721314,
+                    "x": 0.9999998807907105,
+                    "y": 0.9999997615814209,
                     "z": 1.0000001192092896
                 }
             },
@@ -16101,7 +16669,7 @@
                 "position": {
                     "x": -0.058788251131772998,
                     "y": 1.355193018913269,
-                    "z": 17.730764389038087
+                    "z": 17.489845275878908
                 },
                 "rotation": {
                     "x": 270.019775390625,
@@ -16177,7 +16745,7 @@
                 "position": {
                     "x": -0.05878837779164314,
                     "y": 1.7430403232574463,
-                    "z": 17.625349044799806
+                    "z": 17.384429931640626
                 },
                 "rotation": {
                     "x": 270.019775390625,
@@ -16186,8 +16754,8 @@
                 },
                 "scale": {
                     "x": 1.0745829343795777,
-                    "y": 1.0745816230773926,
-                    "z": 1.0745816230773926
+                    "y": 1.0745819807052613,
+                    "z": 1.0745819807052613
                 }
             },
             "isObstacle": false,
@@ -16256,14 +16824,14 @@
                     "z": 24.46520233154297
                 },
                 "rotation": {
-                    "x": 274.7848205566406,
+                    "x": 274.7848815917969,
                     "y": 44.783329010009769,
-                    "z": 89.99994659423828
+                    "z": 89.99995422363281
                 },
                 "scale": {
-                    "x": 1.0000009536743165,
-                    "y": 1.0000007152557374,
-                    "z": 1.000000238418579
+                    "x": 1.0000007152557374,
+                    "y": 1.0000004768371583,
+                    "z": 1.0000001192092896
                 }
             },
             "isObstacle": false,
@@ -16408,14 +16976,14 @@
                     "z": 24.59664535522461
                 },
                 "rotation": {
-                    "x": 83.40206909179688,
+                    "x": 83.40203094482422,
                     "y": 179.99978637695313,
                     "z": 335.4416809082031
                 },
                 "scale": {
-                    "x": 1.0000005960464478,
+                    "x": 1.0000004768371583,
                     "y": 0.9999998807907105,
-                    "z": 1.0
+                    "z": 0.9999998807907105
                 }
             },
             "isObstacle": false,
@@ -16489,9 +17057,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000020265579224,
-                    "y": 1.0000007152557374,
-                    "z": 1.0000009536743165
+                    "x": 1.0000016689300538,
+                    "y": 1.0000005960464478,
+                    "z": 1.0000007152557374
                 }
             },
             "isObstacle": false,
@@ -16565,8 +17133,8 @@
                     "z": 263.12200927734377
                 },
                 "scale": {
-                    "x": 1.0000032186508179,
-                    "y": 1.000003695487976,
+                    "x": 1.0000030994415284,
+                    "y": 1.0000035762786866,
                     "z": 1.000000238418579
                 }
             },
@@ -16712,9 +17280,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.25000107288360598,
+                    "x": 0.2500010132789612,
                     "y": 0.25,
-                    "z": 0.25000107288360598
+                    "z": 0.2500010132789612
                 }
             },
             "isObstacle": false,
@@ -16903,9 +17471,9 @@
                     "z": 359.8692321777344
                 },
                 "scale": {
-                    "x": 0.25000253319740298,
+                    "x": 0.250002384185791,
                     "y": 0.2500000596046448,
-                    "z": 0.2500024437904358
+                    "z": 0.25000235438346865
                 }
             },
             "isObstacle": false,
@@ -16962,9 +17530,9 @@
                             "z": 0.04045531526207924
                         },
                         "rotation": {
-                            "x": 272.23675537109377,
-                            "y": 337.5292053222656,
-                            "z": 12.637551307678223
+                            "x": 272.2369384765625,
+                            "y": 337.52923583984377,
+                            "z": 12.637508392333985
                         },
                         "scale": {
                             "x": 4.0,
@@ -17454,9 +18022,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000026226043702,
+                    "x": 1.000002384185791,
                     "y": 1.0,
-                    "z": 1.0000026226043702
+                    "z": 1.000002384185791
                 }
             },
             "isObstacle": false,
@@ -17738,9 +18306,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000038146972657,
+                    "x": 1.0000035762786866,
                     "y": 1.0,
-                    "z": 1.0000038146972657
+                    "z": 1.0000035762786866
                 }
             },
             "isObstacle": false,
@@ -17809,9 +18377,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000054836273194,
-                    "y": 1.0000038146972657,
-                    "z": 1.0000016689300538
+                    "x": 1.0000050067901612,
+                    "y": 1.0000035762786866,
+                    "z": 1.0000014305114747
                 }
             },
             "isObstacle": false,
@@ -17880,9 +18448,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000019073486329,
-                    "y": 1.0000011920928956,
-                    "z": 1.0000011920928956
+                    "x": 1.0000014305114747,
+                    "y": 1.0000009536743165,
+                    "z": 1.0000009536743165
                 }
             },
             "isObstacle": false,
@@ -17947,7 +18515,7 @@
                 "local": false,
                 "position": {
                     "x": -0.28399986028671267,
-                    "y": 0.9779995679855347,
+                    "y": 0.9779996871948242,
                     "z": 18.82200050354004
                 },
                 "rotation": {
@@ -17956,9 +18524,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.2500004768371582,
+                    "x": 0.25000035762786868,
                     "y": 0.2500000298023224,
-                    "z": 0.2500004768371582
+                    "z": 0.25000035762786868
                 }
             },
             "isObstacle": false,
@@ -18076,9 +18644,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.000002384185791,
-                    "y": 1.0000011920928956,
-                    "z": 0.5000005960464478
+                    "x": 1.000002145767212,
+                    "y": 1.000001072883606,
+                    "z": 0.500000536441803
                 }
             },
             "isObstacle": true,
@@ -18137,8 +18705,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5493078231811524,
-                    "y": -7.156049832701683e-7,
+                    "x": -1.5493083000183106,
+                    "y": -4.770699888467789e-7,
                     "z": 16.2810001373291
                 },
                 "rotation": {
@@ -18147,9 +18715,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000007152557374,
-                    "y": 1.0000007152557374,
-                    "z": 0.5000004172325134
+                    "x": 1.0000004768371583,
+                    "y": 1.0000004768371583,
+                    "z": 0.5000002980232239
                 }
             },
             "isObstacle": true,
@@ -18218,9 +18786,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000030994415284,
-                    "y": 1.0000015497207642,
-                    "z": 0.5000007748603821
+                    "x": 1.0000028610229493,
+                    "y": 1.0000014305114747,
+                    "z": 0.5000007152557373
                 }
             },
             "isObstacle": true,
@@ -18279,8 +18847,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5493066310882569,
-                    "y": -0.276483952999115,
+                    "x": -1.549307107925415,
+                    "y": -0.2764834761619568,
                     "z": 15.849488258361817
                 },
                 "rotation": {
@@ -18289,9 +18857,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000014305114747,
-                    "y": 1.0000011920928956,
-                    "z": 0.5000006556510925
+                    "x": 1.0000011920928956,
+                    "y": 1.0000009536743165,
+                    "z": 0.500000536441803
                 }
             },
             "isObstacle": true,
@@ -18360,9 +18928,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000038146972657,
-                    "y": 1.0000019073486329,
-                    "z": 0.5000009536743164
+                    "x": 1.0000035762786866,
+                    "y": 1.0000017881393433,
+                    "z": 0.5000008940696716
                 }
             },
             "isObstacle": true,
@@ -18421,8 +18989,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5493054389953614,
-                    "y": -0.5441073775291443,
+                    "x": -1.5493056774139405,
+                    "y": -0.5441069006919861,
                     "z": 15.397796630859375
                 },
                 "rotation": {
@@ -18431,9 +18999,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.000002145767212,
-                    "y": 1.0000016689300538,
-                    "z": 0.5000008940696716
+                    "x": 1.0000019073486329,
+                    "y": 1.0000014305114747,
+                    "z": 0.5000007748603821
                 }
             },
             "isObstacle": true,
@@ -18502,9 +19070,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.000004529953003,
-                    "y": 1.0000022649765015,
-                    "z": 0.5000011324882507
+                    "x": 1.0000042915344239,
+                    "y": 1.000002145767212,
+                    "z": 0.500001072883606
                 }
             },
             "isObstacle": true,
@@ -18563,8 +19131,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5493040084838868,
-                    "y": -0.7157118320465088,
+                    "x": -1.549304485321045,
+                    "y": -0.7157113552093506,
                     "z": 14.951172828674317
                 },
                 "rotation": {
@@ -18573,9 +19141,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000028610229493,
-                    "y": 1.000002145767212,
-                    "z": 0.5000011324882507
+                    "x": 1.0000026226043702,
+                    "y": 1.0000019073486329,
+                    "z": 0.5000010132789612
                 }
             },
             "isObstacle": true,
@@ -18644,9 +19212,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000054836273194,
-                    "y": 1.0000027418136597,
-                    "z": 0.5000013709068298
+                    "x": 1.0000052452087403,
+                    "y": 1.0000026226043702,
+                    "z": 0.5000013113021851
                 }
             },
             "isObstacle": true,
@@ -18705,7 +19273,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5493035316467286,
+                    "x": -1.5493032932281495,
                     "y": -0.8806980848312378,
                     "z": 14.504446983337403
                 },
@@ -18715,9 +19283,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.000003457069397,
+                    "x": 1.0000033378601075,
                     "y": 1.0000020265579224,
-                    "z": 0.5000010132789612
+                    "z": 0.500001072883606
                 }
             },
             "isObstacle": true,
@@ -18786,9 +19354,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000063180923463,
-                    "y": 1.0000030994415284,
-                    "z": 0.5000015497207642
+                    "x": 1.0000059604644776,
+                    "y": 1.0000029802322388,
+                    "z": 0.5000014901161194
                 }
             },
             "isObstacle": true,
@@ -18857,7 +19425,7 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.000003695487976,
+                    "x": 1.0000038146972657,
                     "y": 1.0000025033950806,
                     "z": 0.5000013113021851
                 }
@@ -18928,9 +19496,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.000006914138794,
-                    "y": 1.0000035762786866,
-                    "z": 0.5000017881393433
+                    "x": 1.0000066757202149,
+                    "y": 1.0000033378601075,
+                    "z": 0.5000016689300537
                 }
             },
             "isObstacle": true,
@@ -19070,9 +19638,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000090599060059,
-                    "y": 1.000004529953003,
-                    "z": 0.5000022649765015
+                    "x": 1.0000088214874268,
+                    "y": 1.0000044107437134,
+                    "z": 0.5000022053718567
                 }
             },
             "isObstacle": true,
@@ -19131,7 +19699,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5944408178329468,
+                    "x": -1.5944409370422364,
                     "y": -1.6223552227020264,
                     "z": 13.132685661315918
                 },
@@ -19212,9 +19780,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000100135803223,
-                    "y": 1.0000050067901612,
-                    "z": 0.5000025033950806
+                    "x": 1.0000097751617432,
+                    "y": 1.0000048875808716,
+                    "z": 0.5000024437904358
                 }
             },
             "isObstacle": true,
@@ -19283,7 +19851,7 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000075101852418,
+                    "x": 1.0000076293945313,
                     "y": 1.000004768371582,
                     "z": 0.500002384185791
                 }
@@ -19354,9 +19922,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000107288360596,
-                    "y": 1.0000053644180298,
-                    "z": 0.5000026822090149
+                    "x": 1.0000104904174805,
+                    "y": 1.0000052452087403,
+                    "z": 0.5000026226043701
                 }
             },
             "isObstacle": true,
@@ -19415,7 +19983,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5944385528564454,
+                    "x": -1.5944381952285767,
                     "y": -2.1571099758148195,
                     "z": 12.222336769104004
                 },
@@ -19496,9 +20064,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000112056732178,
-                    "y": 1.0000056028366089,
-                    "z": 0.5000028014183044
+                    "x": 1.0000109672546387,
+                    "y": 1.0000054836273194,
+                    "z": 0.5000027418136597
                 }
             },
             "isObstacle": true,
@@ -19557,8 +20125,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5944364070892335,
-                    "y": -2.415760040283203,
+                    "x": -1.5944368839263917,
+                    "y": -2.415759563446045,
                     "z": 11.782064437866211
                 },
                 "rotation": {
@@ -19567,9 +20135,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.000009536743164,
-                    "y": 1.0000063180923463,
-                    "z": 0.5000032186508179
+                    "x": 1.000009298324585,
+                    "y": 1.000006079673767,
+                    "z": 0.5000030994415283
                 }
             },
             "isObstacle": true,
@@ -19638,9 +20206,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.000011920928955,
-                    "y": 1.0000059604644776,
-                    "z": 0.5000029802322388
+                    "x": 1.000011682510376,
+                    "y": 1.000005841255188,
+                    "z": 0.500002920627594
                 }
             },
             "isObstacle": true,
@@ -19699,8 +20267,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.594435214996338,
-                    "y": -2.6676998138427736,
+                    "x": -1.594435453414917,
+                    "y": -2.6676993370056154,
                     "z": 11.340328216552735
                 },
                 "rotation": {
@@ -19709,9 +20277,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000102519989014,
-                    "y": 1.0000067949295045,
-                    "z": 0.500003457069397
+                    "x": 1.0000100135803223,
+                    "y": 1.0000065565109254,
+                    "z": 0.5000033378601074
                 }
             },
             "isObstacle": true,
@@ -19780,9 +20348,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000126361846924,
-                    "y": 1.0000063180923463,
-                    "z": 0.5000031590461731
+                    "x": 1.0000123977661133,
+                    "y": 1.0000061988830567,
+                    "z": 0.5000030994415283
                 }
             },
             "isObstacle": true,
@@ -19841,8 +20409,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.5944337844848633,
-                    "y": -2.931246757507324,
+                    "x": -1.5944342613220215,
+                    "y": -2.931246280670166,
                     "z": 10.900604248046875
                 },
                 "rotation": {
@@ -19851,9 +20419,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000109672546387,
-                    "y": 1.0000072717666627,
-                    "z": 0.5000036954879761
+                    "x": 1.0000107288360596,
+                    "y": 1.0000070333480836,
+                    "z": 0.5000035762786865
                 }
             },
             "isObstacle": true,
@@ -20561,9 +21129,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000039339065552,
-                    "y": 1.0000017881393433,
-                    "z": 1.0000017881393433
+                    "x": 1.000003457069397,
+                    "y": 1.0000015497207642,
+                    "z": 1.0000015497207642
                 }
             },
             "isObstacle": true,
@@ -20741,7 +21309,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "axymntshwr.png",
+                    "fileName": "Temp/axymntshwr.png",
                     "rendererPath": ""
                 }
             ],
@@ -20936,9 +21504,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.9999996423721314,
+                    "x": 0.9999997615814209,
                     "y": 1.0,
-                    "z": 0.9999996423721314
+                    "z": 0.9999997615814209
                 }
             },
             "isObstacle": true,
@@ -21007,9 +21575,9 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.5669314861297608,
-                    "y": 1.6607310771942139,
-                    "z": 0.9561119675636292
+                    "x": 1.5669312477111817,
+                    "y": 1.6607307195663453,
+                    "z": 0.9561119079589844
                 }
             },
             "isObstacle": true,
@@ -21220,7 +21788,7 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.0134356021881105,
+                    "x": 2.0134353637695314,
                     "y": 1.7477526664733887,
                     "z": 1.0000007152557374
                 }
@@ -21258,7 +21826,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "mnlbaxlgep.png",
+                    "fileName": "Temp/mnlbaxlgep.png",
                     "rendererPath": ""
                 }
             ],
@@ -21443,8 +22011,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000025033950806,
-                    "y": 1.0000014305114747,
+                    "x": 1.000002384185791,
+                    "y": 1.000001311302185,
                     "z": 1.0000011920928956
                 }
             },
@@ -21586,8 +22154,8 @@
                 },
                 "scale": {
                     "x": 1.000002384185791,
-                    "y": 1.000002145767212,
-                    "z": 1.000002145767212
+                    "y": 1.0000019073486329,
+                    "z": 1.0000019073486329
                 }
             },
             "isObstacle": false,
@@ -21632,934 +22200,6 @@
             "editorWater": [],
             "roulette": [],
             "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "WallProps/SpaceWallProp"
-            },
-            "ID": {
-                "value": 1716
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.07638497650623322,
-                    "y": 0.10473001003265381,
-                    "z": 16.148847579956056
-                },
-                "rotation": {
-                    "x": 270.019775390625,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 0.9999998807907105,
-                    "z": 0.9999998807907105
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Wall ",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Bank/SM_Flagpole_01a Variant"
-            },
-            "ID": {
-                "value": 1717
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 1.1073721647262574,
-                    "y": 0.10553455352783203,
-                    "z": 16.501148223876954
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 0.00001001791224553017,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.000000238418579,
-                    "y": 1.0,
-                    "z": 1.000000238418579
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "American Flag",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Bank/SM_Flagpole_01a Variant"
-            },
-            "ID": {
-                "value": 1718
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.2312265634536744,
-                    "y": 0.3118312358856201,
-                    "z": 16.582849502563478
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 0.00001001791224553017,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000004768371583,
-                    "y": 1.0,
-                    "z": 1.0000004768371583
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "American Flag",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/V1Props/V1PictureFrameBigMan"
-            },
-            "ID": {
-                "value": 1720
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.04426544904708862,
-                    "y": 2.8611576557159426,
-                    "z": 16.280698776245118
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 0.00001001791224553017,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000004768371583,
-                    "y": 1.000001072883606,
-                    "z": 1.000001072883606
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Painting",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Talos/Chest2"
-            },
-            "ID": {
-                "value": 1721
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.042870257049798968,
-                    "y": -0.11018823832273483,
-                    "z": 16.518320083618165
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000033378601075,
-                    "y": 0.46770474314689639,
-                    "z": 1.0000016689300538
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Table",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/S1/S1HistoryTrophy"
-            },
-            "ID": {
-                "value": 1722
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.15653298795223237,
-                    "y": 1.0956592559814454,
-                    "z": 16.450838088989259
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 0.00001001791224553017,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 2.907589912414551,
-                    "y": 2.907592535018921,
-                    "z": 2.907592535018921
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Plane Trophy",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/S1/S1WingsTrophy"
-            },
-            "ID": {
-                "value": 1723
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.2734117805957794,
-                    "y": 1.6809686422348023,
-                    "z": 16.426258087158204
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 2.957232713699341,
-                    "y": 2.9572267532348635,
-                    "z": 2.9572267532348635
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Trophy Wings",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/FloorProps/SpaceFloor1"
-            },
-            "ID": {
-                "value": 1725
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -2.2659661769866945,
-                    "y": 0.00014775991439819336,
-                    "z": -1.9932255744934083
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 315.8136291503906,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000011920928956,
-                    "y": 1.1420029401779175,
-                    "z": 1.0000019073486329
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Floor",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/FloorProps/SpaceFloor1"
-            },
-            "ID": {
-                "value": 1726
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -2.0999999046325685,
-                    "y": 0.029999999329447748,
-                    "z": -7.639999866485596
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 47.13999938964844,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.1419999599456788,
-                    "y": 0.9999998807907105,
-                    "z": 1.0
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Floor",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/FloorProps/SpaceFloor1"
-            },
-            "ID": {
-                "value": 1727
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.09000000357627869,
-                    "y": 0.029999999329447748,
-                    "z": -9.989999771118164
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 135.8000030517578,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000004768371583,
-                    "y": 1.0000004768371583,
-                    "z": 1.000000238418579
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Floor",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/FloorProps/SpaceFloor1"
-            },
-            "ID": {
-                "value": 1728
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 2.124055862426758,
-                    "y": 0.00014775991439819336,
-                    "z": -1.9932255744934083
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 50.00001525878906,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000019073486329,
-                    "y": 1.1420042514801026,
-                    "z": 1.0000028610229493
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Floor",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/FloorProps/SpaceFloor1"
-            },
-            "ID": {
-                "value": 1729
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 2.11299991607666,
-                    "y": 0.05999999865889549,
-                    "z": -7.639999866485596
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 132.89999389648438,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.1420003175735474,
-                    "y": 1.0,
-                    "z": 1.0
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Space Floor",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "SpacePillar"
-            },
-            "ID": {
-                "value": 1732
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.14000000059604646,
-                    "y": 3.328000068664551,
-                    "z": -5.139999866485596
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.8040000200271607
-                }
-            },
-            "isObstacle": true,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Metal Pillar",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [
-                {
-                    "isKinematic": false,
-                    "mass": 1.0
-                }
-            ],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
         }
     ],
     "floors": [
@@ -22567,7 +22207,7 @@
             "x": 0,
             "y": 0,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
@@ -22580,7 +22220,7 @@
                     "value": "Wall/AlchemistWall"
                 },
                 {
-                    "value": "Wall/SpaceWall2"
+                    "value": "Wall/AlchemistWall"
                 },
                 {
                     "value": "Wall/AlchemistWall"
@@ -22597,7 +22237,7 @@
             "x": 0,
             "y": -1,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
@@ -22627,7 +22267,7 @@
             "x": 1,
             "y": 0,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
@@ -22640,7 +22280,7 @@
                     "value": "Wall/_EmptyWall"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow"
+                    "value": "Wall/AlchemistWallDoor"
                 },
                 {
                     "value": "Wall/Toy2Walls"
@@ -22657,7 +22297,7 @@
             "x": 1,
             "y": -1,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
@@ -22687,7 +22327,7 @@
             "x": -1,
             "y": 0,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
@@ -22700,7 +22340,7 @@
                     "value": "Wall/Toy2Walls"
                 },
                 {
-                    "value": "Wall/SpaceWallWindow"
+                    "value": "Wall/AlchemistWallDoor"
                 },
                 {
                     "value": "Wall/Toy2Walls"
@@ -22717,7 +22357,7 @@
             "x": -1,
             "y": -1,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
@@ -22747,7 +22387,7 @@
             "x": 0,
             "y": -2,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
@@ -23617,7 +23257,7 @@
             "x": -1,
             "y": -2,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
@@ -23647,7 +23287,7 @@
             "x": 1,
             "y": -2,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
