@@ -20,13 +20,13 @@
         "z": 0.0000033216683732462117
     },
     "cameraEditPosition": {
-        "x": -0.95224928855896,
-        "y": 1.8847262859344483,
-        "z": 9.726683616638184
+        "x": -2.02774715423584,
+        "y": 2.4976565837860109,
+        "z": 10.28237533569336
     },
     "cameraEditRotation": {
-        "x": 29.836544036865236,
-        "y": 23.866758346557618,
+        "x": 24.135059356689454,
+        "y": 60.0249137878418,
         "z": 0.0
     },
     "useNonLegacyLights": false,
@@ -45751,12 +45751,7 @@
             "sound": [],
             "skybox": [],
             "swapTextures": [],
-            "paintTextures": [
-                {
-                    "fileName": "cejvajtrro.png",
-                    "rendererPath": ""
-                }
-            ],
+            "paintTextures": [],
             "openLink": [],
             "activatorComponent": [],
             "editorLight": [],
@@ -46393,12 +46388,7 @@
             "sound": [],
             "skybox": [],
             "swapTextures": [],
-            "paintTextures": [
-                {
-                    "fileName": "gfriuhsdtg.png",
-                    "rendererPath": ""
-                }
-            ],
+            "paintTextures": [],
             "openLink": [],
             "activatorComponent": [],
             "editorLight": [],
@@ -46613,12 +46603,7 @@
             "sound": [],
             "skybox": [],
             "swapTextures": [],
-            "paintTextures": [
-                {
-                    "fileName": "wyrldvnxxc.png",
-                    "rendererPath": ""
-                }
-            ],
+            "paintTextures": [],
             "openLink": [],
             "activatorComponent": [],
             "editorLight": [],
