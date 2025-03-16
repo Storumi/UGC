@@ -20,14 +20,14 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 0.4236270785331726,
-        "y": 1.400123119354248,
-        "z": 9.47512435913086
+        "x": -0.22702829539775849,
+        "y": 0.9287517666816711,
+        "z": 10.57064151763916
     },
     "cameraEditRotation": {
-        "x": 24.55289649963379,
-        "y": 307.19842529296877,
-        "z": 9.386480428474897e-7
+        "x": 26.836551666259767,
+        "y": 265.50433349609377,
+        "z": 0.0000019136514310957866
     },
     "useNonLegacyLights": true,
     "useNonLegacyFloorColliders": true,
@@ -110906,8 +110906,8 @@
                 },
                 "scale": {
                     "x": 1.0000004768371583,
-                    "y": 1.0000090599060059,
-                    "z": 1.0000090599060059
+                    "y": 1.0000088214874268,
+                    "z": 1.0000088214874268
                 }
             },
             "isObstacle": false,
@@ -110945,7 +110945,11 @@
                     "appliedPickupInZoomFix": false,
                     "playerVariableName": "",
                     "interpolation": 0,
-                    "remoteTargets": [],
+                    "remoteTargets": [
+                        {
+                            "value": 1478
+                        }
+                    ],
                     "pivot": {
                         "local": true,
                         "position": {
@@ -111394,7 +111398,7 @@
                 "local": false,
                 "position": {
                     "x": -1.5726737976074219,
-                    "y": 0.37259507179260256,
+                    "y": 0.3725946247577667,
                     "z": 10.070292472839356
                 },
                 "rotation": {
@@ -111427,6 +111431,117 @@
                 }
             ],
             "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Effects/ConfettiLoop"
+            },
+            "ID": {
+                "value": 1478
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -1.3942842483520508,
+                    "y": -1.9402427673339844,
+                    "z": 11.585792541503907
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 270.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0000042915344239,
+                    "y": 1.0,
+                    "z": 1.0000042915344239
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Confetti Loop",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [
+                {
+                    "isRemote": true,
+                    "isSticky": false,
+                    "duration": 0.009999999776482582,
+                    "outputValueApplied": true,
+                    "outputValue": 1,
+                    "bounce": false,
+                    "loop": false,
+                    "autoplay": false,
+                    "delay": 0.0,
+                    "pauseOnLoop": 0.0,
+                    "pauseOnBounce": 0.0,
+                    "canPickupDuringAnimation": false,
+                    "appliedPickupInZoomFix": true,
+                    "playerVariableName": "",
+                    "interpolation": 0,
+                    "remoteTargets": [],
+                    "pivot": {
+                        "local": true,
+                        "position": {
+                            "x": -0.6435718536376953,
+                            "y": 2.3291101455688478,
+                            "z": 0.1755821704864502
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        }
+                    },
+                    "locks": [],
+                    "useRigidbody": false,
+                    "useRigidbodyApplied": true
+                }
+            ],
             "turnable": [],
             "dial": [],
             "zoomable": [],
@@ -111569,19 +111684,95 @@
         },
         {
             "propID": {
+                "value": "Boardgames/RubiksCube01"
+            },
+            "ID": {
+                "value": 1480
+            },
+            "parentID": {
+                "value": 1455
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -1.5544036626815797,
+                    "y": 0.37476223707199099,
+                    "z": 11.3344144821167
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 270.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 0.03999999538064003,
+                    "y": 0.03999999910593033,
+                    "z": 0.03999999910593033
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Rubiks Cube ",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [
+                {
+                    "isKinematic": false,
+                    "mass": 1.0
+                }
+            ],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
                 "value": "Base/Talos/Statue1"
             },
             "ID": {
                 "value": 1481
             },
             "parentID": {
-                "value": 1474
+                "value": 0
             },
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 0.7275998592376709,
-                    "y": -1.6287256479263306,
+                    "x": 0.727599561214447,
+                    "y": -1.6287249326705933,
                     "z": 9.916792869567871
                 },
                 "rotation": {
@@ -111590,9 +111781,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.01100001111626625,
-                    "y": 0.01100000087171793,
-                    "z": 0.01100001111626625
+                    "x": 0.011000009253621102,
+                    "y": 0.010999999940395356,
+                    "z": 0.011000009253621102
                 }
             },
             "isObstacle": false,
