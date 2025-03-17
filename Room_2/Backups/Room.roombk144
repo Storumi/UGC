@@ -20,14 +20,14 @@
         "z": 0.0000035431128253549106
     },
     "cameraEditPosition": {
-        "x": -1.0839200019836426,
-        "y": 1.7155672311782838,
-        "z": 23.662092208862306
+        "x": -2.8198606967926027,
+        "y": 4.151073455810547,
+        "z": 19.398828506469728
     },
     "cameraEditRotation": {
-        "x": 358.0123596191406,
-        "y": 56.50614547729492,
-        "z": 1.0678594009050357e-7
+        "x": 45.40747833251953,
+        "y": 174.8719940185547,
+        "z": -3.040243257146358e-7
     },
     "useNonLegacyLights": false,
     "useNonLegacyFloorColliders": false,
@@ -9047,7 +9047,12 @@
             "transparencyOrderOffset": 0,
             "showSparklesInVR": true,
             "vrSparklesMode": 0,
-            "rigidbody": [],
+            "rigidbody": [
+                {
+                    "isKinematic": false,
+                    "mass": 10.0
+                }
+            ],
             "_switch": [],
             "turnable": [],
             "dial": [],
@@ -9118,7 +9123,12 @@
             "transparencyOrderOffset": 0,
             "showSparklesInVR": true,
             "vrSparklesMode": 0,
-            "rigidbody": [],
+            "rigidbody": [
+                {
+                    "isKinematic": false,
+                    "mass": 11.0
+                }
+            ],
             "_switch": [],
             "turnable": [],
             "dial": [],
@@ -13468,6 +13478,82 @@
         },
         {
             "propID": {
+                "value": "Base/Powerwash/PipeBroken"
+            },
+            "ID": {
+                "value": 1796
+            },
+            "parentID": {
+                "value": 1782
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 2.484269857406616,
+                    "y": 0.4445808529853821,
+                    "z": 24.295032501220704
+                },
+                "rotation": {
+                    "x": 11.999945640563965,
+                    "y": 352.9673156738281,
+                    "z": 127.43537902832031
+                },
+                "scale": {
+                    "x": 1.0000064373016358,
+                    "y": 1.0000066757202149,
+                    "z": 1.0000032186508179
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Broken Pipe",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [
+                {
+                    "isKinematic": false,
+                    "mass": 1.0
+                }
+            ],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
                 "value": "Base/West/WoodenPackage1"
             },
             "ID": {
@@ -15477,7 +15563,12 @@
             "transparencyOrderOffset": 0,
             "showSparklesInVR": true,
             "vrSparklesMode": 0,
-            "rigidbody": [],
+            "rigidbody": [
+                {
+                    "isKinematic": false,
+                    "mass": 1.0
+                }
+            ],
             "_switch": [],
             "turnable": [],
             "dial": [],
@@ -19978,77 +20069,6 @@
                     "rotateOnPlayer": false
                 }
             ],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Steampunk/D2/alarmLight"
-            },
-            "ID": {
-                "value": 1960
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 1.2995551824569703,
-                    "y": 1.1380139589309693,
-                    "z": 25.019207000732423
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000028610229493,
-                    "y": 1.000001311302185,
-                    "z": 1.000001311302185
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Light",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
             "display": [],
             "slidable": [],
             "mirror": [],

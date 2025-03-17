@@ -20,14 +20,14 @@
         "z": 0.0000035431128253549106
     },
     "cameraEditPosition": {
-        "x": 3.907728910446167,
-        "y": 1.7672802209854127,
-        "z": 26.316532135009767
+        "x": 9.65913200378418,
+        "y": 3.6501212120056154,
+        "z": 18.424657821655275
     },
     "cameraEditRotation": {
-        "x": 5.673525810241699,
-        "y": 186.42889404296876,
-        "z": -2.681176702878929e-8
+        "x": 4.6066694259643559,
+        "y": 211.26620483398438,
+        "z": 1.0706757080924945e-7
     },
     "useNonLegacyLights": false,
     "useNonLegacyFloorColliders": false,
@@ -53,19 +53,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -2.9809465408325197,
-                    "y": 1.2183020114898682,
-                    "z": 12.671913146972657
+                    "x": 0.40320539474487307,
+                    "y": 1.290419340133667,
+                    "z": 18.688156127929689
                 },
                 "rotation": {
                     "x": 0.0,
-                    "y": 182.14927673339845,
+                    "y": 2.6787147521972658,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.0000131130218508,
+                    "x": 2.0000104904174806,
                     "y": 2.0,
-                    "z": 2.0000131130218508
+                    "z": 2.0000104904174806
                 }
             },
             "isObstacle": false,
@@ -92,6 +92,88 @@
             "teleport": [],
             "fog": [],
             "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Base/Sound"
+            },
+            "ID": {
+                "value": 674
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -0.5883034467697144,
+                    "y": 11.992622375488282,
+                    "z": 33.881649017333987
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 270.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0000004768371583,
+                    "y": 1.000000238418579,
+                    "z": 1.000000238418579
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Sea Shanties",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [
+                {
+                    "path": "Y2Mate (mp3cut.net).mp3",
+                    "_event": "",
+                    "isMusic": false,
+                    "isLoopable": true,
+                    "is2D": false,
+                    "activeOnStart": false,
+                    "volumeScaleApplied": true,
+                    "volumeScale": 3.0
+                }
+            ],
             "skybox": [],
             "swapTextures": [],
             "paintTextures": [],
@@ -988,6 +1070,88 @@
                     "activeOnStart": true,
                     "volumeScaleApplied": true,
                     "volumeScale": 0.25
+                }
+            ],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Base/Sound"
+            },
+            "ID": {
+                "value": 1555
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -1.478959083557129,
+                    "y": 15.415660858154297,
+                    "z": 45.16632843017578
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 1.0000004768371583,
+                    "y": 1.000000238418579,
+                    "z": 1.000000238418579
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Sound",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 2,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": false,
+            "vrSparklesMode": 1,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [
+                {
+                    "path": "Big-waves-crashing-stormy-sea.mp3",
+                    "_event": "",
+                    "isMusic": false,
+                    "isLoopable": true,
+                    "is2D": false,
+                    "activeOnStart": false,
+                    "volumeScaleApplied": true,
+                    "volumeScale": 2.0
                 }
             ],
             "skybox": [],
@@ -10015,9 +10179,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000333786010743,
-                    "y": 1.0000165700912476,
-                    "z": 1.0000170469284058
+                    "x": 1.0000324249267579,
+                    "y": 1.0000160932540894,
+                    "z": 1.0000165700912476
                 }
             },
             "isObstacle": false,
@@ -10059,9 +10223,9 @@
                     "pivot": {
                         "local": true,
                         "position": {
-                            "x": 0.06333690136671066,
-                            "y": -7.4504611369263788e-9,
-                            "z": -0.09568868577480316
+                            "x": 0.0,
+                            "y": -1.4900954248275866e-8,
+                            "z": -0.09568865597248078
                         },
                         "rotation": {
                             "x": 0.0,
@@ -24417,7 +24581,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "nwalwobmpw.png",
+                    "fileName": "Temp/nwalwobmpw.png",
                     "rendererPath": ""
                 }
             ],
@@ -24498,7 +24662,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "dchgmegayn.png",
+                    "fileName": "Temp/dchgmegayn.png",
                     "rendererPath": ""
                 }
             ],
@@ -24770,7 +24934,7 @@
                 },
                 "scale": {
                     "x": 0.25,
-                    "y": 0.8999999761581421,
+                    "y": 0.25,
                     "z": 0.25
                 }
             },
@@ -24827,7 +24991,7 @@
                         "local": true,
                         "position": {
                             "x": -0.02867465652525425,
-                            "y": -0.18573960661888123,
+                            "y": -0.7354640960693359,
                             "z": 1.3302383422851563
                         },
                         "rotation": {
@@ -24836,9 +25000,9 @@
                             "z": 270.8134765625
                         },
                         "scale": {
-                            "x": 1.5970410108566285,
-                            "y": 2.8000004291534426,
-                            "z": 0.7781789302825928
+                            "x": 1.600000023841858,
+                            "y": 2.799999952316284,
+                            "z": 2.799999952316284
                         }
                     },
                     "outputValueApplied": true,
@@ -24893,7 +25057,7 @@
                 },
                 "scale": {
                     "x": 0.25,
-                    "y": 0.8899996876716614,
+                    "y": 0.25,
                     "z": 0.25
                 }
             },
@@ -24950,18 +25114,18 @@
                         "local": true,
                         "position": {
                             "x": -0.04820870980620384,
-                            "y": -0.18726849555969239,
+                            "y": -0.7381467819213867,
                             "z": 1.3418502807617188
                         },
                         "rotation": {
-                            "x": 359.89483642578127,
-                            "y": 267.9399108886719,
+                            "x": 359.8948669433594,
+                            "y": 267.93994140625,
                             "z": 270.8134765625
                         },
                         "scale": {
-                            "x": 1.5970864295959473,
-                            "y": 2.8000004291534426,
-                            "z": 0.786920964717865
+                            "x": 1.600000023841858,
+                            "y": 2.799999952316284,
+                            "z": 2.799999952316284
                         }
                     },
                     "outputValueApplied": true,
@@ -26410,7 +26574,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "nwalwobmpw.png",
+                    "fileName": "Temp/nwalwobmpw.png",
                     "rendererPath": ""
                 }
             ],
@@ -26486,7 +26650,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "nwalwobmpw.png",
+                    "fileName": "Temp/nwalwobmpw.png",
                     "rendererPath": ""
                 }
             ],
@@ -26562,7 +26726,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "egalqkawal.png",
+                    "fileName": "Temp/egalqkawal.png",
                     "rendererPath": ""
                 }
             ],
@@ -26638,7 +26802,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "egalqkawal.png",
+                    "fileName": "Temp/egalqkawal.png",
                     "rendererPath": ""
                 }
             ],
@@ -26714,7 +26878,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "egalqkawal.png",
+                    "fileName": "Temp/egalqkawal.png",
                     "rendererPath": ""
                 }
             ],
@@ -30273,7 +30437,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "iubpdlqcpm.png",
+                    "fileName": "Temp/iubpdlqcpm.png",
                     "rendererPath": "SM_Camera_02a/SM_Camera_02a_LOD0"
                 }
             ],
@@ -30501,27 +30665,27 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "okwctlwipa.png",
+                    "fileName": "Temp/okwctlwipa.png",
                     "rendererPath": "Cube"
                 },
                 {
-                    "fileName": "yvrimnqcwm.png",
+                    "fileName": "Temp/yvrimnqcwm.png",
                     "rendererPath": "Cube.028"
                 },
                 {
-                    "fileName": "obcrohdehn.png",
+                    "fileName": "Temp/obcrohdehn.png",
                     "rendererPath": "Cube.030"
                 },
                 {
-                    "fileName": "lcyxcodyms.png",
+                    "fileName": "Temp/lcyxcodyms.png",
                     "rendererPath": "Cube.031"
                 },
                 {
-                    "fileName": "calbcvervv.png",
+                    "fileName": "Temp/calbcvervv.png",
                     "rendererPath": "Cube.032"
                 },
                 {
-                    "fileName": "busqmukcbi.png",
+                    "fileName": "Temp/busqmukcbi.png",
                     "rendererPath": "Cube.033"
                 }
             ],
@@ -30717,63 +30881,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -30849,63 +31013,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -30981,63 +31145,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -31113,63 +31277,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -31245,63 +31409,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -33934,7 +34098,7 @@
                     "is2D": true,
                     "activeOnStart": true,
                     "volumeScaleApplied": true,
-                    "volumeScale": 0.05000000074505806
+                    "volumeScale": 1.0
                 }
             ],
             "skybox": [],
@@ -34740,27 +34904,27 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "kjlkjmwfww.png",
+                    "fileName": "Temp/kjlkjmwfww.png",
                     "rendererPath": ""
                 },
                 {
-                    "fileName": "hhqmbdccfo.png",
+                    "fileName": "Temp/hhqmbdccfo.png",
                     "rendererPath": "Cube.708"
                 },
                 {
-                    "fileName": "soxpviydut.png",
+                    "fileName": "Temp/soxpviydut.png",
                     "rendererPath": "Cylinder.1098"
                 },
                 {
-                    "fileName": "cvccnppsfy.png",
+                    "fileName": "Temp/cvccnppsfy.png",
                     "rendererPath": "Cylinder.1099"
                 },
                 {
-                    "fileName": "tlykourwrw.png",
+                    "fileName": "Temp/tlykourwrw.png",
                     "rendererPath": "Cylinder.1100"
                 },
                 {
-                    "fileName": "jkvknphhco.png",
+                    "fileName": "Temp/jkvknphhco.png",
                     "rendererPath": "Plane.096"
                 }
             ],
@@ -34836,15 +35000,15 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "urwcusaeqb.png",
+                    "fileName": "Temp/urwcusaeqb.png",
                     "rendererPath": ""
                 },
                 {
-                    "fileName": "wsbabkyqsv.png",
+                    "fileName": "Temp/wsbabkyqsv.png",
                     "rendererPath": "HandleBasePart"
                 },
                 {
-                    "fileName": "lhhvovflrw.png",
+                    "fileName": "Temp/lhhvovflrw.png",
                     "rendererPath": "HandleDetail"
                 }
             ],
@@ -35035,27 +35199,27 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "dhywgctqgi.png",
+                    "fileName": "Temp/dhywgctqgi.png",
                     "rendererPath": ""
                 },
                 {
-                    "fileName": "bhykflghpj.png",
+                    "fileName": "Temp/bhykflghpj.png",
                     "rendererPath": "Plane.189"
                 },
                 {
-                    "fileName": "tmpbenchgo.png",
+                    "fileName": "Temp/tmpbenchgo.png",
                     "rendererPath": "Plane.189/lock_2"
                 },
                 {
-                    "fileName": "ucvengtnbi.png",
+                    "fileName": "Temp/ucvengtnbi.png",
                     "rendererPath": "Plane.189/unlock_2"
                 },
                 {
-                    "fileName": "ajhwqycwfd.png",
+                    "fileName": "Temp/ajhwqycwfd.png",
                     "rendererPath": "Plane.190"
                 },
                 {
-                    "fileName": "redshyojoq.png",
+                    "fileName": "Temp/redshyojoq.png",
                     "rendererPath": "highlight1"
                 }
             ],
@@ -36354,670 +36518,6 @@
             "editorWater": [],
             "roulette": [],
             "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Talos/Statue1"
-            },
-            "ID": {
-                "value": 3030
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.7931438684463501,
-                    "y": 1.3114831447601319,
-                    "z": -0.0993337482213974
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 277.41412353515627,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.010520797222852707,
-                    "y": 0.0105208121240139,
-                    "z": 0.010520797222852707
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Statue",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": true,
-                    "isSticky": false,
-                    "duration": 0.0,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": false,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 236.92666625976563,
-                            "y": 176.59559631347657,
-                            "z": -155.25486755371095
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0000001192092896,
-                            "z": 1.0
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [
-                {
-                    "fileName": "cejvajtrro.png",
-                    "rendererPath": ""
-                }
-            ],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Talos/Statue1"
-            },
-            "ID": {
-                "value": 3031
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.1642909049987793,
-                    "y": 1.311483383178711,
-                    "z": -1.163735270500183
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 22.349088668823243,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.010520796291530133,
-                    "y": 0.0105208121240139,
-                    "z": 0.010520796291530133
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Statue",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": true,
-                    "isSticky": false,
-                    "duration": 0.0,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": false,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 236.92666625976563,
-                            "y": 176.59559631347657,
-                            "z": -155.25486755371095
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0000001192092896,
-                            "z": 1.0
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [
-                {
-                    "fileName": "cejvajtrro.png",
-                    "rendererPath": ""
-                }
-            ],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Talos/Statue1"
-            },
-            "ID": {
-                "value": 3032
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -1.2229596376419068,
-                    "y": 1.311483383178711,
-                    "z": 0.0076834894716739658
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 87.91216278076172,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.010520792566239834,
-                    "y": 0.0105208121240139,
-                    "z": 0.010520792566239834
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Statue",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": true,
-                    "isSticky": false,
-                    "duration": 0.0,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": false,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 236.92666625976563,
-                            "y": 176.59559631347657,
-                            "z": -155.25486755371095
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0000001192092896,
-                            "z": 1.0
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [
-                {
-                    "fileName": "cejvajtrro.png",
-                    "rendererPath": ""
-                }
-            ],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Talos/Statue1"
-            },
-            "ID": {
-                "value": 3033
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.0751483142375946,
-                    "y": 1.311483383178711,
-                    "z": 0.9673730731010437
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 205.81202697753907,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.010520802810788155,
-                    "y": 0.0105208121240139,
-                    "z": 0.010520802810788155
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Statue",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": true,
-                    "isSticky": false,
-                    "duration": 0.0,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": false,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 236.92666625976563,
-                            "y": 176.59559631347657,
-                            "z": -155.25486755371095
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0000001192092896,
-                            "z": 1.0
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [
-                {
-                    "fileName": "cejvajtrro.png",
-                    "rendererPath": ""
-                }
-            ],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Empty"
-            },
-            "ID": {
-                "value": 3034
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 3.4534835815429689,
-                    "y": -2.419163703918457,
-                    "z": 14.010358810424805
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 270.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.2300006002187729,
-                    "y": 0.23000000417232514,
-                    "z": 0.2300006002187729
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Empty",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": true,
-                    "isSticky": false,
-                    "duration": 45.0,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": false,
-                    "loop": true,
-                    "autoplay": true,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0,
-                            "z": 1.0
-                        }
-                    },
-                    "locks": [
-                        {
-                            "instanceID": {
-                                "value": 3035
-                            },
-                            "passwordIndex": -500
-                        }
-                    ],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Sound"
-            },
-            "ID": {
-                "value": 3035
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 3.2266480922698976,
-                    "y": -2.6029293537139894,
-                    "z": 15.11411190032959
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 90.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 1.0000004768371583,
-                    "y": 1.000000238418579,
-                    "z": 1.000000238418579
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Sound",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [
-                {
-                    "path": "Humpback-whale-song.mp3",
-                    "_event": "",
-                    "isMusic": false,
-                    "isLoopable": false,
-                    "is2D": false,
-                    "activeOnStart": false,
-                    "volumeScaleApplied": true,
-                    "volumeScale": 1.0
-                }
-            ],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
         }
     ],
     "floors": [
@@ -37025,23 +36525,203 @@
             "x": 0,
             "y": 0,
             "floorID": {
-                "value": "Floor/SpaceFloor"
+                "value": "Floor/AlchemistFloor"
             },
             "ceilingID": {
                 "value": "Ceiling/_EmptyCeiling"
             },
             "wallIDs": [
                 {
-                    "value": "Wall/SpaceWall"
+                    "value": "Wall/_EmptyWall"
                 },
                 {
-                    "value": "Wall/SpaceWall"
+                    "value": "Wall/AlchemistWall"
                 },
                 {
-                    "value": "Wall/SpaceWall"
+                    "value": "Wall/AlchemistWall"
                 },
                 {
-                    "value": "Wall/SpaceWall"
+                    "value": "Wall/AlchemistWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "floorID": {
+                "value": "Floor/AlchemistFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/Toy2Walls"
+                },
+                {
+                    "value": "Wall/Toy2Walls"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "floorID": {
+                "value": "Floor/AlchemistFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/Toy2Walls"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/AlchemistWallDoor"
+                },
+                {
+                    "value": "Wall/Toy2Walls"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "floorID": {
+                "value": "Floor/AlchemistFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/Toy2Walls"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/Toy2Walls"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "floorID": {
+                "value": "Floor/AlchemistFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/Toy2Walls"
+                },
+                {
+                    "value": "Wall/AlchemistWallDoor"
+                },
+                {
+                    "value": "Wall/Toy2Walls"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "floorID": {
+                "value": "Floor/AlchemistFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/Toy2Walls"
+                },
+                {
+                    "value": "Wall/Toy2Walls"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "floorID": {
+                "value": "Floor/AlchemistFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
                 }
             ],
             "floorPaintTextures": [],
@@ -37609,6 +37289,186 @@
                 },
                 {
                     "value": "Wall/AlchemistWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "floorID": {
+                "value": "Floor/AlchemistFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "floorID": {
+                "value": "Floor/AlchemistFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_InitialWall"
                 },
                 {
                     "value": "Wall/_EmptyWall"

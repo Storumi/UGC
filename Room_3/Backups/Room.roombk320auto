@@ -20,14 +20,14 @@
         "z": 0.0000035431128253549106
     },
     "cameraEditPosition": {
-        "x": 3.907728910446167,
-        "y": 1.7672802209854127,
-        "z": 26.316532135009767
+        "x": -2.2171616554260256,
+        "y": 2.333707332611084,
+        "z": 9.89528751373291
     },
     "cameraEditRotation": {
-        "x": 5.673525810241699,
-        "y": 186.42889404296876,
-        "z": -2.681176702878929e-8
+        "x": 27.267621994018556,
+        "y": 32.55116271972656,
+        "z": 4.802544708581991e-7
     },
     "useNonLegacyLights": false,
     "useNonLegacyFloorColliders": false,
@@ -53,19 +53,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -2.9809465408325197,
-                    "y": 1.2183020114898682,
-                    "z": 12.671913146972657
+                    "x": 0.40320539474487307,
+                    "y": 1.290419340133667,
+                    "z": 18.688156127929689
                 },
                 "rotation": {
                     "x": 0.0,
-                    "y": 182.14927673339845,
+                    "y": 2.6787147521972658,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.0000131130218508,
+                    "x": 2.0000104904174806,
                     "y": 2.0,
-                    "z": 2.0000131130218508
+                    "z": 2.0000104904174806
                 }
             },
             "isObstacle": false,
@@ -124,19 +124,19 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.01921742968261242,
-                    "y": 1.0371668338775635,
-                    "z": 16.16238021850586
+                    "x": -2.883805751800537,
+                    "y": 1.0236536264419556,
+                    "z": 12.483747482299805
                 },
                 "rotation": {
                     "x": 0.0,
-                    "y": 0.000005008956122765085,
+                    "y": 168.27487182617188,
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 2.0,
+                    "x": 2.0000016689300539,
                     "y": 2.0,
-                    "z": 2.0
+                    "z": 2.0000016689300539
                 }
             },
             "isObstacle": false,
@@ -24417,7 +24417,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "nwalwobmpw.png",
+                    "fileName": "Temp/nwalwobmpw.png",
                     "rendererPath": ""
                 }
             ],
@@ -24498,7 +24498,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "dchgmegayn.png",
+                    "fileName": "Temp/dchgmegayn.png",
                     "rendererPath": ""
                 }
             ],
@@ -24770,7 +24770,7 @@
                 },
                 "scale": {
                     "x": 0.25,
-                    "y": 0.8999999761581421,
+                    "y": 0.25,
                     "z": 0.25
                 }
             },
@@ -24827,7 +24827,7 @@
                         "local": true,
                         "position": {
                             "x": -0.02867465652525425,
-                            "y": -0.18573960661888123,
+                            "y": -0.7354640960693359,
                             "z": 1.3302383422851563
                         },
                         "rotation": {
@@ -24836,9 +24836,9 @@
                             "z": 270.8134765625
                         },
                         "scale": {
-                            "x": 1.5970410108566285,
-                            "y": 2.8000004291534426,
-                            "z": 0.7781789302825928
+                            "x": 1.600000023841858,
+                            "y": 2.799999952316284,
+                            "z": 2.799999952316284
                         }
                     },
                     "outputValueApplied": true,
@@ -24893,7 +24893,7 @@
                 },
                 "scale": {
                     "x": 0.25,
-                    "y": 0.8899996876716614,
+                    "y": 0.25,
                     "z": 0.25
                 }
             },
@@ -24950,18 +24950,18 @@
                         "local": true,
                         "position": {
                             "x": -0.04820870980620384,
-                            "y": -0.18726849555969239,
+                            "y": -0.7381467819213867,
                             "z": 1.3418502807617188
                         },
                         "rotation": {
-                            "x": 359.89483642578127,
-                            "y": 267.9399108886719,
+                            "x": 359.8948669433594,
+                            "y": 267.93994140625,
                             "z": 270.8134765625
                         },
                         "scale": {
-                            "x": 1.5970864295959473,
-                            "y": 2.8000004291534426,
-                            "z": 0.786920964717865
+                            "x": 1.600000023841858,
+                            "y": 2.799999952316284,
+                            "z": 2.799999952316284
                         }
                     },
                     "outputValueApplied": true,
@@ -26410,7 +26410,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "nwalwobmpw.png",
+                    "fileName": "Temp/nwalwobmpw.png",
                     "rendererPath": ""
                 }
             ],
@@ -26486,7 +26486,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "nwalwobmpw.png",
+                    "fileName": "Temp/nwalwobmpw.png",
                     "rendererPath": ""
                 }
             ],
@@ -26562,7 +26562,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "egalqkawal.png",
+                    "fileName": "Temp/egalqkawal.png",
                     "rendererPath": ""
                 }
             ],
@@ -26638,7 +26638,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "egalqkawal.png",
+                    "fileName": "Temp/egalqkawal.png",
                     "rendererPath": ""
                 }
             ],
@@ -26714,7 +26714,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "egalqkawal.png",
+                    "fileName": "Temp/egalqkawal.png",
                     "rendererPath": ""
                 }
             ],
@@ -30273,7 +30273,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "iubpdlqcpm.png",
+                    "fileName": "Temp/iubpdlqcpm.png",
                     "rendererPath": "SM_Camera_02a/SM_Camera_02a_LOD0"
                 }
             ],
@@ -30501,27 +30501,27 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "okwctlwipa.png",
+                    "fileName": "Temp/okwctlwipa.png",
                     "rendererPath": "Cube"
                 },
                 {
-                    "fileName": "yvrimnqcwm.png",
+                    "fileName": "Temp/yvrimnqcwm.png",
                     "rendererPath": "Cube.028"
                 },
                 {
-                    "fileName": "obcrohdehn.png",
+                    "fileName": "Temp/obcrohdehn.png",
                     "rendererPath": "Cube.030"
                 },
                 {
-                    "fileName": "lcyxcodyms.png",
+                    "fileName": "Temp/lcyxcodyms.png",
                     "rendererPath": "Cube.031"
                 },
                 {
-                    "fileName": "calbcvervv.png",
+                    "fileName": "Temp/calbcvervv.png",
                     "rendererPath": "Cube.032"
                 },
                 {
-                    "fileName": "busqmukcbi.png",
+                    "fileName": "Temp/busqmukcbi.png",
                     "rendererPath": "Cube.033"
                 }
             ],
@@ -30717,63 +30717,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -30849,63 +30849,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -30981,63 +30981,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -31113,63 +31113,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -31245,63 +31245,63 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "exptmayxrk.png",
+                    "fileName": "Temp/exptmayxrk.png",
                     "rendererPath": "Body.002"
                 },
                 {
-                    "fileName": "abjugnkxxm.png",
+                    "fileName": "Temp/abjugnkxxm.png",
                     "rendererPath": "Cabinet_door.004"
                 },
                 {
-                    "fileName": "knioftleyd.png",
+                    "fileName": "Temp/knioftleyd.png",
                     "rendererPath": "Plane.036"
                 },
                 {
-                    "fileName": "gjfuetwkwb.png",
+                    "fileName": "Temp/gjfuetwkwb.png",
                     "rendererPath": "Plane.037"
                 },
                 {
-                    "fileName": "wcoobhbfot.png",
+                    "fileName": "Temp/wcoobhbfot.png",
                     "rendererPath": "Plane.038"
                 },
                 {
-                    "fileName": "aupibcnpxl.png",
+                    "fileName": "Temp/aupibcnpxl.png",
                     "rendererPath": "Plane.039"
                 },
                 {
-                    "fileName": "bdnxmxtwiv.png",
+                    "fileName": "Temp/bdnxmxtwiv.png",
                     "rendererPath": "Plane.040"
                 },
                 {
-                    "fileName": "deogyjejoo.png",
+                    "fileName": "Temp/deogyjejoo.png",
                     "rendererPath": "Plane.041"
                 },
                 {
-                    "fileName": "xkcmjyiifd.png",
+                    "fileName": "Temp/xkcmjyiifd.png",
                     "rendererPath": "Plane.042"
                 },
                 {
-                    "fileName": "xlibprlymc.png",
+                    "fileName": "Temp/xlibprlymc.png",
                     "rendererPath": "Plane.043"
                 },
                 {
-                    "fileName": "kmwfsfitpj.png",
+                    "fileName": "Temp/kmwfsfitpj.png",
                     "rendererPath": "Plane.044"
                 },
                 {
-                    "fileName": "wbttoxqpro.png",
+                    "fileName": "Temp/wbttoxqpro.png",
                     "rendererPath": "Plane.045"
                 },
                 {
-                    "fileName": "qkvsbcvefm.png",
+                    "fileName": "Temp/qkvsbcvefm.png",
                     "rendererPath": "Plane.046"
                 },
                 {
-                    "fileName": "mgmpcmhysg.png",
+                    "fileName": "Temp/mgmpcmhysg.png",
                     "rendererPath": "Plane.047"
                 },
                 {
-                    "fileName": "lpqfdoinbp.png",
+                    "fileName": "Temp/lpqfdoinbp.png",
                     "rendererPath": "Plane.048"
                 }
             ],
@@ -33934,7 +33934,7 @@
                     "is2D": true,
                     "activeOnStart": true,
                     "volumeScaleApplied": true,
-                    "volumeScale": 0.05000000074505806
+                    "volumeScale": 1.0
                 }
             ],
             "skybox": [],
@@ -34740,27 +34740,27 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "kjlkjmwfww.png",
+                    "fileName": "Temp/kjlkjmwfww.png",
                     "rendererPath": ""
                 },
                 {
-                    "fileName": "hhqmbdccfo.png",
+                    "fileName": "Temp/hhqmbdccfo.png",
                     "rendererPath": "Cube.708"
                 },
                 {
-                    "fileName": "soxpviydut.png",
+                    "fileName": "Temp/soxpviydut.png",
                     "rendererPath": "Cylinder.1098"
                 },
                 {
-                    "fileName": "cvccnppsfy.png",
+                    "fileName": "Temp/cvccnppsfy.png",
                     "rendererPath": "Cylinder.1099"
                 },
                 {
-                    "fileName": "tlykourwrw.png",
+                    "fileName": "Temp/tlykourwrw.png",
                     "rendererPath": "Cylinder.1100"
                 },
                 {
-                    "fileName": "jkvknphhco.png",
+                    "fileName": "Temp/jkvknphhco.png",
                     "rendererPath": "Plane.096"
                 }
             ],
@@ -34836,15 +34836,15 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "urwcusaeqb.png",
+                    "fileName": "Temp/urwcusaeqb.png",
                     "rendererPath": ""
                 },
                 {
-                    "fileName": "wsbabkyqsv.png",
+                    "fileName": "Temp/wsbabkyqsv.png",
                     "rendererPath": "HandleBasePart"
                 },
                 {
-                    "fileName": "lhhvovflrw.png",
+                    "fileName": "Temp/lhhvovflrw.png",
                     "rendererPath": "HandleDetail"
                 }
             ],
@@ -35035,27 +35035,27 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "dhywgctqgi.png",
+                    "fileName": "Temp/dhywgctqgi.png",
                     "rendererPath": ""
                 },
                 {
-                    "fileName": "bhykflghpj.png",
+                    "fileName": "Temp/bhykflghpj.png",
                     "rendererPath": "Plane.189"
                 },
                 {
-                    "fileName": "tmpbenchgo.png",
+                    "fileName": "Temp/tmpbenchgo.png",
                     "rendererPath": "Plane.189/lock_2"
                 },
                 {
-                    "fileName": "ucvengtnbi.png",
+                    "fileName": "Temp/ucvengtnbi.png",
                     "rendererPath": "Plane.189/unlock_2"
                 },
                 {
-                    "fileName": "ajhwqycwfd.png",
+                    "fileName": "Temp/ajhwqycwfd.png",
                     "rendererPath": "Plane.190"
                 },
                 {
-                    "fileName": "redshyojoq.png",
+                    "fileName": "Temp/redshyojoq.png",
                     "rendererPath": "highlight1"
                 }
             ],
@@ -36369,7 +36369,7 @@
                 "local": false,
                 "position": {
                     "x": 0.7931438684463501,
-                    "y": 1.3114831447601319,
+                    "y": 0.8230242133140564,
                     "z": -0.0993337482213974
                 },
                 "rotation": {
@@ -36485,7 +36485,7 @@
                 "local": false,
                 "position": {
                     "x": -0.1642909049987793,
-                    "y": 1.311483383178711,
+                    "y": 0.8230244517326355,
                     "z": -1.163735270500183
                 },
                 "rotation": {
@@ -36601,7 +36601,7 @@
                 "local": false,
                 "position": {
                     "x": -1.2229596376419068,
-                    "y": 1.311483383178711,
+                    "y": 0.823024332523346,
                     "z": 0.0076834894716739658
                 },
                 "rotation": {
@@ -36610,9 +36610,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.010520792566239834,
+                    "x": 0.010520794428884983,
                     "y": 0.0105208121240139,
-                    "z": 0.010520792566239834
+                    "z": 0.010520794428884983
                 }
             },
             "isObstacle": false,
@@ -36717,7 +36717,7 @@
                 "local": false,
                 "position": {
                     "x": -0.0751483142375946,
-                    "y": 1.311483383178711,
+                    "y": 0.823024332523346,
                     "z": 0.9673730731010437
                 },
                 "rotation": {
@@ -36726,9 +36726,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.010520802810788155,
+                    "x": 0.010520800948143006,
                     "y": 0.0105208121240139,
-                    "z": 0.010520802810788155
+                    "z": 0.010520800948143006
                 }
             },
             "isObstacle": false,
